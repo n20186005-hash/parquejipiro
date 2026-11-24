@@ -1,0 +1,2017 @@
+[
+  {
+    "slug": "san-juan-del-valle",
+    "name": {
+      "es": "Conjunto de San Juan de El Valle",
+      "en": "San Juan de El Valle square",
+      "zh": "圣胡安德埃尔瓦列广场"
+    },
+    "address": "Parroquia El Valle, Loja",
+    "kind": "plaza",
+    "intro": {
+      "es": "La torre de la iglesia aparece sobre una hilera de fachadas bajas. Esa relación entre la plaza, el templo y las casas distingue El Valle de los paseos modernos de Jipiro. Detente primero en el espacio abierto para ver el conjunto antes de acercarte a una sola puerta.",
+      "en": "The church tower rises above a row of low houses. The relationship between their doors, the square and the church makes El Valle a useful contrast to the modern recreation grounds at Jipiro. Take in the whole frontage before picking out a single building.",
+      "zh": "在广场远端先看整排低矮房屋，再找出屋顶上方的教堂钟楼。居民的门廊、教堂入口和广场朝向同一片公共空间，这与希皮罗公园里各自独立的游乐建筑很不一样。"
+    },
+    "walk": {
+      "es": [
+        "Llega a la plaza de El Valle",
+        "Recorre el borde porticado hasta la fachada de la iglesia",
+        "Vuelve por el lado opuesto para ver las cubiertas en perspectiva"
+      ],
+      "en": [
+        "Start in the El Valle square",
+        "Follow the edge of the square to the church front",
+        "Return on the opposite side for an oblique view along the roofs"
+      ],
+      "zh": [
+        "从埃尔瓦列广场下车",
+        "沿广场边缘步行至教堂正面",
+        "从对侧返回，回望沿街的屋顶和门廊"
+      ]
+    },
+    "image": "/nearby/san-juan-del-valle.webp",
+    "photoTip": {
+      "es": "Desde una esquina encuadra la torre por encima de la línea continua de casas. Espera a que quede libre la entrada de las viviendas.",
+      "en": "From a corner frame the tower just above the line of roofs. Wait until the residential doorways are clear.",
+      "zh": "从广场角落取景，把钟楼放在沿街屋顶线上方，等住户经过门口后再拍。"
+    },
+    "source": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "photoSource": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "manager": "Municipio de Loja",
+    "hours": {
+      "es": "Espacio público; programa la visita con luz diurna. Una celebración puede ocupar parte de la plaza.",
+      "en": "Public square; daylight is best for looking at the surroundings. An event may occupy part of the space.",
+      "zh": "公共广场适合在白天步行，庆典期间部分区域会用作活动场地。"
+    },
+    "fee": {
+      "es": "Acceso peatonal libre. Compras y actividades puntuales se pagan aparte.",
+      "en": "No ticket for walking through the square. Purchases and individual events are separate.",
+      "zh": "步行经过广场无需购买门票，消费与特别活动另计。"
+    },
+    "faq": {
+      "es": [
+        "¿Dónde se ve la relación entre templo y barrio?",
+        "Desde una esquina de la plaza, sigue con la vista las casas bajas hasta que aparezca la torre."
+      ],
+      "en": [
+        "Where can I see the church in its neighbourhood setting?",
+        "From a square corner, follow the line of low houses until it meets the tower."
+      ],
+      "zh": [
+        "在哪里能看出教堂与街区的关系？",
+        "从广场角落沿低矮房屋的屋顶望向钟楼，两者可以同时入眼。"
+      ]
+    }
+  },
+  {
+    "slug": "campus-utpl",
+    "name": {
+      "es": "Campus San Cayetano de la UTPL",
+      "en": "UTPL San Cayetano campus",
+      "zh": "洛哈私立技术大学圣卡耶塔诺校区"
+    },
+    "address": "San Cayetano Alto, Loja",
+    "kind": "campus",
+    "intro": {
+      "es": "Desde el campus se entiende cómo Loja se extiende por el fondo del valle. Su museo de arqueología y lojanidad aporta otra escala: objetos y relatos locales frente al panorama urbano. Organiza la entrada al museo antes de subir; las aulas son espacios de estudio.",
+      "en": "From the campus the built-up strip along the valley floor is easy to read. The university's museum of archaeology and local identity offers a closer view of Loja through objects. Arrange the museum visit before the uphill journey so you reach the right entrance.",
+      "zh": "从校区的高处可以辨认洛哈城区沿谷底展开的形态。大学的考古与地方文化博物馆则把视线从城市全景拉回到具体文物。上坡前先向大学问清展馆接待时间和校门。"
+    },
+    "walk": {
+      "es": [
+        "Empieza en recepción de San Cayetano Alto",
+        "Pide el itinerario público al museo",
+        "Al regresar detente en un punto abierto autorizado para mirar al valle"
+      ],
+      "en": [
+        "Begin at the San Cayetano Alto reception",
+        "Ask for the public route to the museum",
+        "On the way back pause at an accessible open point facing the valley"
+      ],
+      "zh": [
+        "在圣卡耶塔诺上区的校门接待处集合",
+        "询问到展馆的公共步行路线",
+        "返回时在允许停留的开阔处向谷底眺望"
+      ]
+    },
+    "image": "/nearby/campus-utpl.webp",
+    "photoTip": {
+      "es": "Una foto desde el terreno alto explica el trazado del valle mejor que una imagen desde un aula. Pide orientación en recepción para fijar el punto abierto.",
+      "en": "An outdoor campus view shows the valley's shape better than a classroom window. Ask reception which public path has an open view.",
+      "zh": "从校内获准进入的开阔地看谷底，比隔着教学楼窗户更容易辨认城区轮廓；接待处可以指明开放步道。"
+    },
+    "source": "https://www.utpl.edu.ec/",
+    "photoSource": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "manager": "Universidad Técnica Particular de Loja",
+    "hours": {
+      "es": "Comprueba el acceso público en recepción antes de subir. Las salas siguen el calendario universitario.",
+      "en": "Confirm public access with reception before travelling up. Rooms follow the university calendar.",
+      "zh": "出发上坡前向校方接待处确认，室内场所按校方日程开放。"
+    },
+    "fee": {
+      "es": "Consulta en recepción la visita y cualquier tarifa de exposición; la autorización de entrada no incluye aulas.",
+      "en": "Ask about visitor access and any exhibition fee. Permission to enter does not extend to classrooms.",
+      "zh": "展馆收费及校园访客准入请咨询接待处，教学楼另有管理。"
+    },
+    "faq": {
+      "es": [
+        "¿Es el mismo campus que la Plaza de la Cultura Universitaria?",
+        "Para UTPL usa San Cayetano Alto. La plaza de la otra universidad está en la Ciudadela de La Argelia."
+      ],
+      "en": [
+        "Is this the same campus as the University Culture Square?",
+        "Use San Cayetano Alto for UTPL. The other university's square is on the La Argelia campus."
+      ],
+      "zh": [
+        "这里和大学文化广场是同一处吗？",
+        "参观私立技术大学应选圣卡耶塔诺上区，另一所大学的文化广场位于拉阿尔赫利亚大学城。"
+      ]
+    }
+  },
+  {
+    "slug": "puerta-de-la-ciudad",
+    "name": {
+      "es": "Museo Puerta de la Ciudad",
+      "en": "City Gate Museum",
+      "zh": "洛哈城门博物馆"
+    },
+    "address": "Av. Universitaria, Puente Bolívar, Loja",
+    "kind": "gate",
+    "intro": {
+      "es": "El aspecto de fortaleza puede confundir: la ciudad construyó esta puerta en 1999 sobre el puente Bolívar. Abrió como museo en 2001. El escudo de Loja inspiró la silueta; las salas de exposiciones temporales cambian, aunque el edificio siga siendo el punto de referencia del puente.",
+      "en": "This fortress-like gateway is a modern civic landmark. Built over Bolívar Bridge in 1999, it opened as a museum in 2001. Its outline draws on Loja's coat of arms. The changing exhibitions inside explain why two visits to the same façade can be quite different.",
+      "zh": "城门看起来像古堡，实际上是1999年建在玻利瓦尔桥上的城市建筑，2001年开始作为博物馆开放。轮廓取意于洛哈市徽。外观相对固定，内部临时展览会更换，第二次到访可先看展讯。"
+    },
+    "walk": {
+      "es": [
+        "Observa la silueta desde el acceso peatonal al puente",
+        "Entra a las salas anunciadas en recepción",
+        "Consulta si está abierto el mirador antes de subir a la torre"
+      ],
+      "en": [
+        "Look at the outline from the pedestrian approach to the bridge",
+        "Check the exhibition board and visit the open galleries",
+        "Ask about the lookout before climbing the clock tower"
+      ],
+      "zh": [
+        "从桥头人行通道观察城门轮廓",
+        "到接待处查看当天展览，再进入开放展厅",
+        "登楼前查询钟楼观景处是否开放"
+      ]
+    },
+    "image": "/nearby/puerta-de-la-ciudad.webp",
+    "photoTip": {
+      "es": "Primero fotografía las torres desde la aproximación al puente. Guarda otra imagen para el mirador: desde arriba el protagonista será el trazado de la ciudad.",
+      "en": "Frame the towers from the bridge approach first. Save a second frame for the lookout, where the city plan becomes the subject.",
+      "zh": "先在桥头拍摄双塔，若钟楼开放再从高处拍一张城区街廓，两张照片讲述的是不同的空间关系。"
+    },
+    "source": "https://www.loja.gob.ec/contenido/museo-puerta-de-la-ciudad",
+    "photoSource": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "manager": "Municipio de Loja",
+    "hours": {
+      "es": "Lun–vie 08:00–20:00; sáb 09:00–20:00; dom 09:00–19:00, según el Municipio.",
+      "en": "Municipal hours: Mon–Fri 08:00–20:00; Sat 09:00–20:00; Sun 09:00–19:00.",
+      "zh": "市政府公布时间为周一至周五08:00–20:00，周六09:00–20:00，周日09:00–19:00。"
+    },
+    "fee": {
+      "es": "El Municipio indica que el ingreso al museo es gratuito.",
+      "en": "The municipality lists museum admission as free.",
+      "zh": "市政府注明博物馆免门票。"
+    },
+    "faq": {
+      "es": [
+        "¿Es una puerta medieval?",
+        "El edificio actual es de 1999. Su aspecto remite al escudo de la ciudad y hoy alberga un museo municipal."
+      ],
+      "en": [
+        "Is this a surviving medieval gate?",
+        "The present building dates from 1999. Its design recalls the city coat of arms and it now houses a municipal museum."
+      ],
+      "zh": [
+        "城门是中世纪遗存吗？",
+        "现存建筑建于1999年，造型借用了城市徽章中的形象，如今是市立博物馆。"
+      ]
+    }
+  },
+  {
+    "slug": "museo-matilde-hidalgo",
+    "name": {
+      "es": "Museo Matilde Hidalgo de Prócel",
+      "en": "Matilde Hidalgo de Prócel Museum",
+      "zh": "玛蒂尔德·伊达尔戈博物馆"
+    },
+    "address": "Casona Cultural, Bernardo Valdivieso y Rocafuerte, Loja",
+    "kind": "museum",
+    "intro": {
+      "es": "La médica lojana Matilde Hidalgo fue la primera mujer en ejercer el voto en Ecuador. El museo reúne escritos, actas, fotos y pertenencias. Busca una pieza cotidiana junto a un documento público: juntas muestran mejor el paso de una biografía personal a la historia política del país.",
+      "en": "A physician from Loja, Matilde Hidalgo became the first woman to vote in Ecuador. Photographs, records, writing and personal belongings tell different parts of her story. Pair a private object with a public record to see how an individual life became part of national political history.",
+      "zh": "洛哈医生玛蒂尔德·伊达尔戈是厄瓜多尔第一位行使投票权的女性。展厅里的照片、文书和个人用品讲述的是不同层面的经历。把一件私人用品与一份公共档案对照，比只记下一个纪念年份更能理解这段历史。"
+    },
+    "walk": {
+      "es": [
+        "Entra por la Casona Cultural en Bernardo Valdivieso y Rocafuerte",
+        "Compara las piezas biográficas de las dos salas",
+        "Regresa al punto de información para identificar la fecha de un documento"
+      ],
+      "en": [
+        "Enter the Casona Cultural at Bernardo Valdivieso and Rocafuerte",
+        "Compare the biographical displays in the two rooms",
+        "Return to the information desk to identify the date of a document"
+      ],
+      "zh": [
+        "从贝尔纳多·巴尔迪维索街与罗卡富埃尔特街交会处进入文化大宅",
+        "在两个展室间对照生平资料",
+        "返回咨询台核对一份感兴趣文书的日期"
+      ]
+    },
+    "image": "/nearby/museo-matilde-hidalgo.webp",
+    "photoTip": {
+      "es": "Pregunta si se permite fotografiar documentos. Si piden guardar la cámara, anota el título y la fecha de una de las actas para reconstruir después su contexto.",
+      "en": "Ask about photographing documents. If cameras must be put away, note the title and date of a record so you can place it later.",
+      "zh": "先问档案能否拍照，若不能，记下一份文书的题名和日期，离馆后仍能追溯它在人物生平中的位置。"
+    },
+    "source": "https://www.loja.gob.ec/node/20465",
+    "photoSource": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "manager": "Dirección Municipal de Cultura de Loja",
+    "hours": {
+      "es": "Lunes a viernes 08:00–13:00 y 15:00–18:00, según el aviso municipal de octubre de 2025.",
+      "en": "The October 2025 municipal notice lists Monday–Friday 08:00–13:00 and 15:00–18:00.",
+      "zh": "2025年10月市政府公告列出的时段为周一至周五08:00–13:00及15:00–18:00。"
+    },
+    "fee": {
+      "es": "Confirma en boletería la tarifa vigente y si la visita guiada se reserva por separado.",
+      "en": "Confirm the current admission price and whether a guided visit needs a separate booking.",
+      "zh": "在售票处核实当天票价与导览是否需要另约。"
+    },
+    "faq": {
+      "es": [
+        "¿Sigue el museo junto al antiguo archivo?",
+        "La visita actual empieza en la Casona Cultural, en Bernardo Valdivieso y Rocafuerte. Las guías antiguas muestran otra dirección."
+      ],
+      "en": [
+        "Is the museum still beside the old archive?",
+        "The current visit begins in the Casona Cultural at Bernardo Valdivieso and Rocafuerte. Older guides show a different address."
+      ],
+      "zh": [
+        "现在还去旧档案馆找博物馆吗？",
+        "馆址已调整，应到贝尔纳多·巴尔迪维索街与罗卡富埃尔特街交会处的文化大宅，旧导览图上的地址已过时。"
+      ]
+    }
+  },
+  {
+    "slug": "plaza-simon-bolivar",
+    "name": {
+      "es": "Plaza Simón Bolívar",
+      "en": "Simón Bolívar Square",
+      "zh": "西蒙·玻利瓦尔广场"
+    },
+    "address": "Sector de la Puerta de la Ciudad, Loja",
+    "kind": "plaza",
+    "intro": {
+      "es": "Las columnas claras y los medallones dan a esta plaza una escala ceremonial. Desde cerca se distinguen los relieves; desde el otro extremo se percibe la composición completa. Es una parada breve en el trayecto desde el puente Bolívar hacia las calles del centro.",
+      "en": "Pale columns and medallions give the square a ceremonial scale. Look at the reliefs up close, then take a few steps back to see how the entire composition fits together. This makes a short stop between Bolívar Bridge and the streets of the centre.",
+      "zh": "浅色石柱和圆形浮雕构成了广场最容易辨认的标志。靠近时看浮雕纹样，退到另一边才看得出石柱围出的空间。由玻利瓦尔桥进入市区时，可把这里作为中途短停。"
+    },
+    "walk": {
+      "es": [
+        "Entra por el paso peatonal próximo al puente",
+        "Recorre las columnas sin cruzar la calzada para tomar fotos",
+        "Continúa hacia el casco urbano por la acera señalizada"
+      ],
+      "en": [
+        "Approach by the pedestrian crossing near the bridge",
+        "Walk past the columns, staying on the pavement for photos",
+        "Continue towards the centre on the marked footway"
+      ],
+      "zh": [
+        "从桥附近的人行过街处进入",
+        "沿柱廊一侧看浮雕，在人行道上取景",
+        "沿标示的人行通道继续向老城走"
+      ]
+    },
+    "image": "/nearby/plaza-simon-bolivar.webp",
+    "photoTip": {
+      "es": "Incluye el pedestal de una columna en primer plano y el conjunto al fondo. Quédate en la zona peatonal incluso si la calzada ofrece una vista más centrada.",
+      "en": "Place one column base in the foreground and the rest behind it. Stay on the pedestrian side even when the road appears to give a more central angle.",
+      "zh": "把一根柱子的基座置于前景，其余柱体留在后方；即便车道中央更对称，也应在人行区域内取景。"
+    },
+    "source": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "photoSource": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "manager": "Municipio de Loja",
+    "hours": {
+      "es": "Espacio público; programa la visita con luz diurna. Una celebración puede ocupar parte de la plaza.",
+      "en": "Public square; daylight is best for looking at the surroundings. An event may occupy part of the space.",
+      "zh": "公共广场适合在白天步行，庆典期间部分区域会用作活动场地。"
+    },
+    "fee": {
+      "es": "Acceso peatonal libre. Compras y actividades puntuales se pagan aparte.",
+      "en": "No ticket for walking through the square. Purchases and individual events are separate.",
+      "zh": "步行经过广场无需购买门票，消费与特别活动另计。"
+    },
+    "faq": {
+      "es": [
+        "¿Conviene rodear la plaza o cruzarla sin detenerse?",
+        "Un tramo por el borde permite ver los relieves de perfil y distinguir el conjunto de columnas; basta una parada breve."
+      ],
+      "en": [
+        "Should I circle the square or walk straight through?",
+        "A short walk around the edge reveals the reliefs in profile and separates the columns visually."
+      ],
+      "zh": [
+        "值得绕广场走一小圈吗？",
+        "沿边缘走一小段便可从侧面看浮雕、分辨石柱的排列，不必长时间停留。"
+      ]
+    }
+  },
+  {
+    "slug": "mercado-centro-comercial",
+    "name": {
+      "es": "Mercado Centro Comercial Loja",
+      "en": "Loja central market",
+      "zh": "洛哈中央市场"
+    },
+    "address": "Av. Universitaria y 18 de Noviembre, Loja",
+    "kind": "market",
+    "intro": {
+      "es": "En este mercado cubierto la visita empieza por reconocer las secciones antes de comprar. Un puesto de fruta, una venta de comida preparada y una tienda de abasto atienden ritmos distintos. Pregunta el precio por unidad o por porción y deja libres los corredores de carga.",
+      "en": "Different parts of this covered market run at different speeds. Compare a fruit stall with a prepared-food counter and the shops selling provisions. Ask whether a quoted price is per piece or per portion and keep the delivery aisles clear.",
+      "zh": "这里首先是居民采购的室内市场。先辨认鲜果、日用品和熟食摊的位置，再决定在哪儿停留。在水果摊问清按个还是按份计价；想拍摊位时先征求摊主同意，避开运货通道。"
+    },
+    "walk": {
+      "es": [
+        "Identifica la entrada antes de internarte entre los puestos",
+        "Cruza de la sección de abastos a la de comidas",
+        "Reúnete de nuevo en la misma puerta antes de caminar al centro"
+      ],
+      "en": [
+        "Note the entrance before exploring",
+        "Walk from the produce section to the food counters",
+        "Meet back at the same door before continuing downtown"
+      ],
+      "zh": [
+        "先记下入场的街口",
+        "从鲜货区走到熟食区，按实际营业情况挑选",
+        "在原门口集合，再继续老城步行"
+      ]
+    },
+    "image": "/nearby/mercado-centro-comercial.webp",
+    "photoTip": {
+      "es": "Para recordar dónde comiste, toma primero el rótulo de la entrada y después la comida que compraste. Pregunta antes de incluir al vendedor o sus productos.",
+      "en": "Photograph the entrance sign, then the food you bought: the pair makes a useful record of where you ate. Ask before including the stallholder.",
+      "zh": "先拍入口招牌，再拍自己买的食物，日后容易找到同一摊区；镜头若要带到摊主，应先问对方。"
+    },
+    "source": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "photoSource": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "manager": "Municipio de Loja",
+    "hours": {
+      "es": "Acude durante la jornada comercial. Los vendedores de abastos y los puestos de comida pueden cerrar a horas distintas.",
+      "en": "Visit during trading hours. Grocery and food counters may close at different times.",
+      "zh": "选择市场交易时段前往，生鲜摊与熟食区的收摊时间可能不同。"
+    },
+    "fee": {
+      "es": "Sin boleto para recorrer los puestos; pregunta el precio antes de pedir.",
+      "en": "No ticket for browsing stalls; ask the price before ordering.",
+      "zh": "逛摊位无需门票，点餐或购买前先问清价格。"
+    },
+    "faq": {
+      "es": [
+        "¿Cómo se compara el precio entre dos puestos?",
+        "Pregunta si el importe corresponde a una unidad, una porción o una cantidad por peso antes de hacer el pedido."
+      ],
+      "en": [
+        "How do I compare prices at two stalls?",
+        "Ask whether the price applies to one item, one serving or a weight before you order."
+      ],
+      "zh": [
+        "如何比较两个摊位的价格？",
+        "点单前先问价格对应单个、单份还是按重量，不要只对比标牌上的数字。"
+      ]
+    }
+  },
+  {
+    "slug": "san-francisco",
+    "name": {
+      "es": "Plaza e iglesia de San Francisco",
+      "en": "San Francisco square and church",
+      "zh": "圣方济各广场与教堂"
+    },
+    "address": "Bolívar y Colón, Loja",
+    "kind": "church",
+    "intro": {
+      "es": "La torre blanca y el monumento de la plaza se leen mejor desde la acera opuesta. Al acercarte al templo fíjate en cómo cambia el ruido de la calle al pasar el umbral. Cuando hay misa, limita el recorrido a los bordes de la plaza hasta que termine el oficio.",
+      "en": "The white tower and the square's monument are easiest to read together from the far side. Walk towards the church to hear the change from traffic to the quiet of the threshold. During a service explore the square first and leave the nave for later.",
+      "zh": "在广场对边，白色钟楼和纪念像可以同框。再慢慢走向教堂，会发现入口两侧的街声和堂内的安静形成明显区别。遇到礼拜，先在广场周围参观，等仪式结束再问能否入内。"
+    },
+    "walk": {
+      "es": [
+        "Empieza junto al monumento",
+        "Avanza hacia la fachada observando la torre",
+        "Regresa por la acera de Bolívar en dirección a la plaza central"
+      ],
+      "en": [
+        "Start by the monument",
+        "Walk towards the façade while keeping the tower in view",
+        "Leave on the Bolívar pavement towards the central square"
+      ],
+      "zh": [
+        "从广场纪念像旁开始",
+        "面向钟楼走到教堂门前",
+        "沿玻利瓦尔街的人行道向中央广场步行"
+      ]
+    },
+    "image": "/nearby/san-francisco.webp",
+    "photoTip": {
+      "es": "Aléjate de la puerta para encuadrar el monumento y la torre desde la plaza. Guarda la cámara si se está celebrando un oficio religioso.",
+      "en": "Step away from the doorway to frame the monument with the tower. Put the camera away during a service.",
+      "zh": "离开门廊，在广场上把纪念像和钟楼收入同一画面；遇到礼拜请收起相机。"
+    },
+    "source": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "photoSource": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "manager": "Diócesis de Loja",
+    "hours": {
+      "es": "Consulta la cartelera parroquial antes de entrar. Las celebraciones tienen prioridad sobre las visitas.",
+      "en": "Read the parish notice before entering. Services take priority over sightseeing.",
+      "zh": "入内前看堂区公告，礼拜期间以宗教活动安排为准。"
+    },
+    "fee": {
+      "es": "El exterior desde la plaza se visita libremente. Consulta en la iglesia el acceso a espacios adicionales.",
+      "en": "The exterior is freely visible from the square. Ask at the church about other spaces.",
+      "zh": "广场上可免费看教堂外观，附属空间的开放条件可在堂区入口查询。"
+    },
+    "faq": {
+      "es": [
+        "¿Puedo disfrutar de la visita durante la misa?",
+        "Puedes ver la torre y el monumento desde la plaza sin interferir en el culto, y preguntar por la nave al terminar."
+      ],
+      "en": [
+        "Can I visit while a service is on?",
+        "The square gives a clear view of the tower and monument without interrupting the service. Ask about the nave afterwards."
+      ],
+      "zh": [
+        "做礼拜时还能参观什么？",
+        "可以从广场看钟楼和纪念像，礼拜结束后再询问能否进入教堂。"
+      ]
+    }
+  },
+  {
+    "slug": "palacio-municipal",
+    "name": {
+      "es": "Palacio Municipal de Loja",
+      "en": "Loja City Hall",
+      "zh": "洛哈市政厅"
+    },
+    "address": "Bolívar y José Antonio Eguiguren, Loja",
+    "kind": "civic",
+    "intro": {
+      "es": "El edificio municipal se entiende mejor dentro del conjunto de la plaza central. La sede del gobierno local comparte el entorno con la catedral y otros edificios públicos. Observa desde la plaza antes de preguntar en recepción por el acceso a los murales del interior.",
+      "en": "City Hall forms part of the central square alongside the cathedral and other public buildings. Compare the civic frontage and the church entrance from the square. The murals inside are a separate visit: ask reception which areas are available before entering.",
+      "zh": "市政厅与主教座堂共同围合了中央广场。站在广场中先分辨市政入口与教堂入口，再走近观察建筑尺度。市政厅内的壁画属于另一段参观，办公日应先到前台询问可以进入的范围。"
+    },
+    "walk": {
+      "es": [
+        "Sitúate en la plaza central",
+        "Acércate por la acera del Palacio Municipal",
+        "Consulta en recepción y vuelve a la plaza para mirar hacia la catedral"
+      ],
+      "en": [
+        "Start in the central square",
+        "Follow the pavement along City Hall",
+        "Ask at reception, then return to face the cathedral"
+      ],
+      "zh": [
+        "从中央广场开始",
+        "沿市政厅一侧人行道接近入口",
+        "前台确认后返回广场，面朝主教座堂观察两座建筑的关系"
+      ]
+    },
+    "image": "/nearby/palacio-municipal.webp",
+    "photoTip": {
+      "es": "Desde el espacio público se puede mostrar la relación entre ayuntamiento y plaza. La fotografía de los murales depende de la autorización para entrar a la sede.",
+      "en": "From public space, show how City Hall faces the square. Photographing the murals depends on permission to enter the building.",
+      "zh": "站在公共广场上可以拍出市政厅与开放空间的关系，要拍室内壁画则需先获得进入办公楼的许可。"
+    },
+    "source": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "photoSource": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "manager": "Municipio de Loja",
+    "hours": {
+      "es": "La fachada puede verse desde la plaza. Para entrar, comprueba el horario de atención municipal.",
+      "en": "The façade is visible from the square. Check municipal office hours for entry.",
+      "zh": "可从广场看外观，进入办公楼须核对市政接待时间。"
+    },
+    "fee": {
+      "es": "La vista exterior es gratuita. Pregunta en recepción por el acceso al interior.",
+      "en": "The exterior view is free. Ask reception about interior access.",
+      "zh": "参观外观免费，室内参观须向接待处询问。"
+    },
+    "faq": {
+      "es": [
+        "¿Los murales se ven desde el Parque Central?",
+        "Desde la plaza se observa el edificio. Para ver las obras en el interior pregunta por las zonas autorizadas en recepción."
+      ],
+      "en": [
+        "Can I see the murals from Parque Central?",
+        "The square gives a view of the building. For interior artworks, ask reception which areas visitors may enter."
+      ],
+      "zh": [
+        "从中央广场能看到室内壁画吗？",
+        "在广场能看建筑外观，室内艺术品需要先到市政前台询问可开放区域。"
+      ]
+    }
+  },
+  {
+    "slug": "catedral-loja",
+    "name": {
+      "es": "Catedral de Loja",
+      "en": "Loja Cathedral",
+      "zh": "洛哈主教座堂"
+    },
+    "address": "Parque Central, Bernardo Valdivieso, Loja",
+    "kind": "church",
+    "intro": {
+      "es": "La catedral domina uno de los lados del Parque Central. La devoción a la Virgen del Cisne relaciona esta iglesia con una peregrinación regional. Antes de entrar, comprueba si hay celebración: fiestas y procesiones pueden cambiar los accesos y la disponibilidad de la nave.",
+      "en": "The cathedral occupies one side of Parque Central. Devotion to the Virgen del Cisne links it with a regional pilgrimage. Check the service notices before entering, since processions and other observances can change access to the nave and even the approach across the square.",
+      "zh": "主教座堂位于中央公园一侧，与埃尔西斯内圣母朝圣传统相连。先在广场看入口的告示，遇到礼拜或游行时，人群动线和进入教堂的方式都会变化。适合从广场远端先看立面，再决定是否入内。"
+    },
+    "walk": {
+      "es": [
+        "Cruza el Parque Central por sus senderos",
+        "Lee el aviso de cultos junto a la puerta",
+        "Si está abierta entra discretamente y vuelve a la plaza por el paso permitido"
+      ],
+      "en": [
+        "Cross Parque Central on its paths",
+        "Read the service notice by the door",
+        "Enter quietly when open and return to the square by the designated exit"
+      ],
+      "zh": [
+        "沿中央公园步道走向教堂",
+        "在门边阅读礼拜告示",
+        "开放时安静进入，再从指定出口回到广场"
+      ]
+    },
+    "image": "/nearby/catedral-loja.webp",
+    "photoTip": {
+      "es": "Desde el borde del parque busca una abertura entre las ramas para incluir las torres. En días de peregrinación deja libre el eje que conecta la puerta con la plaza.",
+      "en": "Find a gap between the trees at the park edge to frame the towers. During a pilgrimage keep the route from the door into the square clear.",
+      "zh": "从公园边缘找一处树枝间的空隙来框住钟塔，朝圣活动期间应把正门通往广场的轴线留给队伍。"
+    },
+    "source": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "photoSource": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "manager": "Diócesis de Loja",
+    "hours": {
+      "es": "Consulta la cartelera parroquial antes de entrar. Las celebraciones tienen prioridad sobre las visitas.",
+      "en": "Read the parish notice before entering. Services take priority over sightseeing.",
+      "zh": "入内前看堂区公告，礼拜期间以宗教活动安排为准。"
+    },
+    "fee": {
+      "es": "El exterior desde la plaza se visita libremente. Consulta en la iglesia el acceso a espacios adicionales.",
+      "en": "The exterior is freely visible from the square. Ask at the church about other spaces.",
+      "zh": "广场上可免费看教堂外观，附属空间的开放条件可在堂区入口查询。"
+    },
+    "faq": {
+      "es": [
+        "¿Por qué puede variar el acceso por la plaza?",
+        "Las celebraciones y la peregrinación vinculada a la Virgen del Cisne pueden ocupar el recorrido entre la plaza y el templo."
+      ],
+      "en": [
+        "Why might access across the square change?",
+        "Worship and the pilgrimage associated with the Virgen del Cisne can occupy the approach between the square and church."
+      ],
+      "zh": [
+        "为什么广场上的通行路线会改变？",
+        "礼拜、节庆和与埃尔西斯内圣母有关的朝圣活动可能会占用广场通往教堂的路线。"
+      ]
+    }
+  },
+  {
+    "slug": "museo-cultura-lojana",
+    "name": {
+      "es": "Museo de la Cultura Lojana",
+      "en": "Museum of Loja Culture",
+      "zh": "洛哈地方文化博物馆"
+    },
+    "address": "10 de Agosto entre Bolívar y Bernardo Valdivieso, Loja",
+    "kind": "museum",
+    "intro": {
+      "es": "El patio y sus galerías organizan la visita a esta casa del centro. Observa primero la circulación entre las plantas: después será más fácil situar las piezas de las salas en lugar de recorrerlas como vitrinas aisladas. Es un buen complemento de la plaza cívica vecina.",
+      "en": "A courtyard and galleries organise this central house. Look first at the circulation between floors; it gives the rooms a context that isolated display cases cannot. Combine the interior visit with the civic square nearby to compare domestic and public architecture.",
+      "zh": "老城院落与回廊决定了展馆的参观方式。进馆后先看各层如何围绕天井相连，再进入展室，就不容易把展品看成彼此孤立的陈列。离馆后可到附近中央广场，比较院落建筑和公共广场的空间。"
+    },
+    "walk": {
+      "es": [
+        "Entra desde 10 de Agosto",
+        "Orienta el recorrido desde el patio y visita las salas habilitadas",
+        "Vuelve por la galería y sal hacia el Parque Central"
+      ],
+      "en": [
+        "Enter from 10 de Agosto",
+        "Use the courtyard to orient yourself and visit the open rooms",
+        "Return via the gallery and continue to Parque Central"
+      ],
+      "zh": [
+        "从八月十日街进入",
+        "以天井为参照，依次参观开放展室",
+        "沿回廊回到入口，再走向中央公园"
+      ]
+    },
+    "image": "/nearby/museo-cultura-lojana.webp",
+    "photoTip": {
+      "es": "Usa el patio para entender la superposición de galerías. Si hay restricciones en las salas, el esquema de sus puertas da una buena referencia para tus notas.",
+      "en": "Use the courtyard to read the layers of galleries. If photography inside is restricted, note which doors lead to the rooms you visited.",
+      "zh": "从天井看各层回廊如何叠合。展室若限制拍摄，可以记录参观过的房门位置，代替拍下展柜。"
+    },
+    "source": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "photoSource": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "manager": "Museo de la Cultura Lojana",
+    "hours": {
+      "es": "Pregunta por la última hora de ingreso y por posibles cierres al mediodía antes de desplazarte.",
+      "en": "Ask about last admission and any midday break before travelling.",
+      "zh": "出发前查询最后入馆时间及中午是否暂停接待。"
+    },
+    "fee": {
+      "es": "Confirma en boletería la tarifa vigente y si la visita guiada se reserva por separado.",
+      "en": "Confirm the current admission price and whether a guided visit needs a separate booking.",
+      "zh": "在售票处核实当天票价与导览是否需要另约。"
+    },
+    "faq": {
+      "es": [
+        "¿Por qué empezar en el patio?",
+        "Desde allí se ve cómo las galerías conectan las salas alrededor de un espacio abierto. Es la mejor referencia para volver a la salida."
+      ],
+      "en": [
+        "Why begin in the courtyard?",
+        "It shows how galleries connect rooms around a shared open space and gives you a clear reference for the exit."
+      ],
+      "zh": [
+        "为什么建议先进天井？",
+        "在天井能看出各层回廊如何串联展室，也是参观结束后寻找出口的参照。"
+      ]
+    }
+  },
+  {
+    "slug": "museo-conceptas",
+    "name": {
+      "es": "Museo de las Madres Concepcionistas",
+      "en": "Museum of the Conceptionist Sisters",
+      "zh": "圣母始胎会宗教艺术博物馆"
+    },
+    "address": "10 de Agosto 12-78, Loja",
+    "kind": "museum",
+    "intro": {
+      "es": "La colección de arte religioso ocupa un entorno conventual. Una escultura devocional tiene un sentido distinto al de una pieza decorativa: fíjate en el gesto, la colocación de las manos y el lugar previsto para la imagen. Pregunta por las normas de fotografía al comprar la entrada.",
+      "en": "Religious art here belongs to a convent setting. A devotional sculpture had a purpose beyond decoration: look at its gesture, its hands and its intended position. Ask about photography at admission before raising a camera in the galleries.",
+      "zh": "这里的宗教艺术来自修院环境。看圣像时可以先留意人物手势、视线与原来安放的高度，再理解它在礼仪中的用途。入口在八月十日街，进入展室前先问清楚是否允许摄影。"
+    },
+    "walk": {
+      "es": [
+        "Localiza el número 12-78",
+        "Consulta las salas disponibles y sigue su orden",
+        "Sal a 10 de Agosto para enlazar con el Museo de la Cultura Lojana"
+      ],
+      "en": [
+        "Find number 12-78",
+        "Ask which rooms are open and follow the exhibition order",
+        "Return to 10 de Agosto for the Museum of Loja Culture"
+      ],
+      "zh": [
+        "找到八月十日街12-78号",
+        "询问开放展室，按馆内顺序观看",
+        "回到同一条街，继续前往地方文化博物馆"
+      ]
+    },
+    "image": "/nearby/museo-conceptas.webp",
+    "photoTip": {
+      "es": "Pide orientación sobre las piezas que conservan su función devocional. La vista general de la sala ayuda a entender la escala de una talla sin aproximarse demasiado.",
+      "en": "Ask which objects still have a devotional role. A view of the whole room helps explain a carved figure's scale without standing too close.",
+      "zh": "可请讲解人员指出哪些作品仍与宗教礼仪联系紧密。从展室另一端观察，反而容易看出雕像的实际尺度。"
+    },
+    "source": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "photoSource": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "manager": "Museo de las Madres Concepcionistas de Loja",
+    "hours": {
+      "es": "Pregunta por la última hora de ingreso y por posibles cierres al mediodía antes de desplazarte.",
+      "en": "Ask about last admission and any midday break before travelling.",
+      "zh": "出发前查询最后入馆时间及中午是否暂停接待。"
+    },
+    "fee": {
+      "es": "Confirma en boletería la tarifa vigente y si la visita guiada se reserva por separado.",
+      "en": "Confirm the current admission price and whether a guided visit needs a separate booking.",
+      "zh": "在售票处核实当天票价与导览是否需要另约。"
+    },
+    "faq": {
+      "es": [
+        "¿Qué detalle conviene mirar en las tallas?",
+        "Compara las posiciones de manos y miradas; después pregunta por el uso religioso original de la imagen."
+      ],
+      "en": [
+        "What detail distinguishes the devotional carvings?",
+        "Compare the positions of hands and eyes, then ask about the image's original devotional use."
+      ],
+      "zh": [
+        "看宗教木雕时可以关注什么细节？",
+        "先比较手势和视线，再询问雕像原来在礼仪中的用途。"
+      ]
+    }
+  },
+  {
+    "slug": "teatro-bolivar",
+    "name": {
+      "es": "Teatro Universitario Bolívar",
+      "en": "Bolívar University Theatre",
+      "zh": "玻利瓦尔大学剧院"
+    },
+    "address": "Bernardo Valdivieso y Rocafuerte, Loja",
+    "kind": "performance",
+    "intro": {
+      "es": "La fachada y el patio dan una primera lectura de este teatro ligado a la vida universitaria y musical de Loja. Una visita exterior y una función requieren preparativos distintos. Consulta el programa de la Universidad Nacional de Loja para saber si hay acceso a la sala ese día.",
+      "en": "The façade and courtyard introduce a theatre associated with Loja's university and musical life. A street-side visit differs from an evening performance. Check the Universidad Nacional de Loja programme to see whether the auditorium is open and how tickets are issued.",
+      "zh": "剧院的门面和庭院是了解洛哈大学文化与演出传统的起点。路过参观与入场看演出是两件事；想看厅内布置，先查洛哈国立大学当天节目与票务，再安排到达时间。"
+    },
+    "walk": {
+      "es": [
+        "Empieza en la esquina de Rocafuerte",
+        "Lee el cartel de la función y acércate al patio si está abierto",
+        "Regresa a la calle para seguir al Museo de la Música"
+      ],
+      "en": [
+        "Start on the Rocafuerte corner",
+        "Read the performance notice and view the courtyard if open",
+        "Return to the street for the Music Museum"
+      ],
+      "zh": [
+        "从罗卡富埃尔特街角开始",
+        "阅读节目公告，开放时进入庭院",
+        "回到街上后步行到音乐博物馆"
+      ]
+    },
+    "image": "/nearby/teatro-bolivar.webp",
+    "photoTip": {
+      "es": "Si hay función, reserva la fotografía de la arquitectura para antes de sentarte. Comprueba por separado las normas sobre grabar el espectáculo.",
+      "en": "If attending a performance, photograph the architecture before taking your seat. Recording the performance is subject to separate rules.",
+      "zh": "若买票入场，拍建筑宜安排在演出前；演出录影与建筑摄影的规定需要分别核对。"
+    },
+    "source": "https://unl.edu.ec/",
+    "photoSource": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "manager": "Universidad Nacional de Loja",
+    "hours": {
+      "es": "El horario depende de la función o taller anunciado. Comprueba fecha y apertura de puertas.",
+      "en": "Hours follow the advertised show or workshop. Check the date and door time.",
+      "zh": "按具体演出或工作坊日程入场，请以当天公布的开门时间为准。"
+    },
+    "fee": {
+      "es": "La entrada es específica de cada función; confirma si requiere reserva, boleto o inscripción.",
+      "en": "Admission is set per event: check whether you need a reservation, ticket or registration.",
+      "zh": "每场活动独立安排票价和报名，请查节目单。"
+    },
+    "faq": {
+      "es": [
+        "¿Puedo contar con entrar a la sala sin función?",
+        "La visita de la sala depende del programa. Comprueba el acceso en taquilla; desde la calle se aprecia el edificio sin entrada."
+      ],
+      "en": [
+        "Can I assume the auditorium is open between performances?",
+        "Auditorium entry depends on the programme. Ask the box office; the exterior can be seen freely from the street."
+      ],
+      "zh": [
+        "没有演出也能直接进入观众厅吗？",
+        "厅内开放取决于节目安排，请在售票处确认；外观可从街上直接观赏。"
+      ]
+    }
+  },
+  {
+    "slug": "museo-musica",
+    "name": {
+      "es": "Museo de la Música",
+      "en": "Loja Music Museum",
+      "zh": "洛哈音乐博物馆"
+    },
+    "address": "Bernardo Valdivieso y Rocafuerte, Loja",
+    "kind": "museum",
+    "intro": {
+      "es": "Loja es conocida por sus compositores e intérpretes. En este museo conviene seguir un nombre a través de una fotografía, una partitura o un instrumento y preguntar si hay una grabación asociada. Así la visita cuenta una trayectoria musical en lugar de quedarse en una lista de objetos.",
+      "en": "Loja's reputation for music is particularly tangible here. Follow one musician through a photograph, a score or an instrument and ask if an associated recording is available. This gives the displays a thread to follow even if you are unfamiliar with the composers.",
+      "zh": "洛哈以作曲家和演奏家闻名。与其逐件数乐器，不如选一位人物，在照片、乐谱或器物之间寻找同一个名字，再问是否能听到相关录音。这样可以把展品串成一段音乐人的生涯。"
+    },
+    "walk": {
+      "es": [
+        "Llega por Bernardo Valdivieso",
+        "Escoge una trayectoria en las salas y anota el nombre de la obra",
+        "Al salir busca la cartelera del cercano teatro Bolívar"
+      ],
+      "en": [
+        "Approach along Bernardo Valdivieso",
+        "Trace one musician in the displays and note a work's title",
+        "Check the nearby Bolívar Theatre programme on your way out"
+      ],
+      "zh": [
+        "沿贝尔纳多·巴尔迪维索街到馆",
+        "选择一位音乐家，记下一首作品的名字",
+        "离馆后顺路查看玻利瓦尔剧院节目表"
+      ]
+    },
+    "image": "/nearby/museo-musica.webp",
+    "photoTip": {
+      "es": "En una sala con instrumentos, busca el nombre del intérprete antes de enfocar los detalles. Así podrás vincular la imagen con una persona y una pieza concreta.",
+      "en": "Before photographing an instrument, read the performer's name. This lets you connect the image to a person and a specific work afterwards.",
+      "zh": "在乐器展柜前先读演奏者的姓名，再看乐器细节；这样离馆后可以把照片与人物和曲目对上。"
+    },
+    "source": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "photoSource": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "manager": "Museo de la Música · Municipio de Loja",
+    "hours": {
+      "es": "Pregunta por la última hora de ingreso y por posibles cierres al mediodía antes de desplazarte.",
+      "en": "Ask about last admission and any midday break before travelling.",
+      "zh": "出发前查询最后入馆时间及中午是否暂停接待。"
+    },
+    "fee": {
+      "es": "Confirma en boletería la tarifa vigente y si la visita guiada se reserva por separado.",
+      "en": "Confirm the current admission price and whether a guided visit needs a separate booking.",
+      "zh": "在售票处核实当天票价与导览是否需要另约。"
+    },
+    "faq": {
+      "es": [
+        "¿Cómo seguir la exposición si no conozco los compositores?",
+        "Elige un músico y busca su nombre en fotografías, partituras e instrumentos. Pregunta si puedes escuchar una obra suya."
+      ],
+      "en": [
+        "How do I follow the displays if the composers are unfamiliar?",
+        "Choose one musician and follow their name through photographs, scores and instruments. Ask whether a recording can be heard."
+      ],
+      "zh": [
+        "不熟悉当地作曲家，怎样逛比较有收获？",
+        "挑选一位音乐家，在照片、乐谱和乐器标签里寻找同一个名字，再问馆方是否有录音。"
+      ]
+    }
+  },
+  {
+    "slug": "santo-domingo",
+    "name": {
+      "es": "Iglesia de Santo Domingo",
+      "en": "Santo Domingo Church",
+      "zh": "圣多明各教堂"
+    },
+    "address": "Plaza de Santo Domingo, centro de Loja",
+    "kind": "church",
+    "intro": {
+      "es": "Las dos torres se distinguen mejor desde el lado opuesto de la plaza. Retrocede lo suficiente para ver la fachada completa y luego acércate a la puerta. La visita interior depende del culto; el paseo por la plaza funciona también cuando las puertas están cerradas.",
+      "en": "The twin towers are easiest to distinguish from the opposite side of the square. Step back far enough for both before approaching the entrance. Worship determines interior access; the square still makes a worthwhile stop when the doors are closed.",
+      "zh": "两座钟塔要在广场对面才看得完整。先沿人行道后退到两塔都入镜的位置，再走向门廊比较立面的细节。堂内开放取决于宗教活动，即使关门也能完成一段完整的广场步行。"
+    },
+    "walk": {
+      "es": [
+        "Entra por la plaza",
+        "Sigue el borde frente a las torres y acércate por el sendero central",
+        "Vuelve al borde de la plaza para continuar hacia San Sebastián"
+      ],
+      "en": [
+        "Enter the square",
+        "Follow the edge facing the towers, then approach on the central path",
+        "Return to the edge and continue towards San Sebastián"
+      ],
+      "zh": [
+        "从广场进入",
+        "先走到正对双塔的边缘，再沿中央步道靠近教堂",
+        "折回广场边缘，继续向圣塞巴斯蒂安步行"
+      ]
+    },
+    "image": "/nearby/santo-domingo.webp",
+    "photoTip": {
+      "es": "La vista completa de las torres se obtiene desde la plaza. Una segunda foto lateral ayuda a mostrar el espesor de la fachada y la profundidad de la entrada.",
+      "en": "The square gives a full view of both towers. A second frame from the side shows the depth of the doorway.",
+      "zh": "在广场取双塔全景，再从侧面拍门廊的纵深；同一座教堂会呈现出不同的比例。"
+    },
+    "source": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "photoSource": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "manager": "Diócesis de Loja",
+    "hours": {
+      "es": "Consulta la cartelera parroquial antes de entrar. Las celebraciones tienen prioridad sobre las visitas.",
+      "en": "Read the parish notice before entering. Services take priority over sightseeing.",
+      "zh": "入内前看堂区公告，礼拜期间以宗教活动安排为准。"
+    },
+    "fee": {
+      "es": "El exterior desde la plaza se visita libremente. Consulta en la iglesia el acceso a espacios adicionales.",
+      "en": "The exterior is freely visible from the square. Ask at the church about other spaces.",
+      "zh": "广场上可免费看教堂外观，附属空间的开放条件可在堂区入口查询。"
+    },
+    "faq": {
+      "es": [
+        "¿Desde dónde entran las dos torres en el encuadre?",
+        "Prueba desde el borde opuesto de la plaza antes de aproximarte a la entrada del templo."
+      ],
+      "en": [
+        "Where do both towers fit in one frame?",
+        "Try the opposite edge of the square before approaching the church entrance."
+      ],
+      "zh": [
+        "哪里能把两座塔同时拍进去？",
+        "先走到广场的另一侧，再面向教堂取景，不必站在门口仰拍。"
+      ]
+    }
+  },
+  {
+    "slug": "san-sebastian",
+    "name": {
+      "es": "Plaza de San Sebastián",
+      "en": "San Sebastián Square",
+      "zh": "圣塞巴斯蒂安广场"
+    },
+    "address": "Plaza de la Independencia, San Sebastián, Loja",
+    "kind": "plaza",
+    "intro": {
+      "es": "La torre de la plaza la distingue de los patios e iglesias próximos. Es un espacio de encuentro y también escenario de actividades culturales. Cuando hay un montaje, camina por el perímetro para ver las fachadas sin atravesar la zona del público.",
+      "en": "The square's tower makes it easy to identify among the nearby churches and courtyards. This is a meeting place and a setting for cultural events. Walk around the edges during an event to see the façades without cutting across the audience.",
+      "zh": "广场上的高塔是辨认圣塞巴斯蒂安片区最直接的标志。这里既是居民会面处，也是文化活动场地。遇到演出，不必穿过观众区；沿周边人行道走，一样可以看清塔身与四周街屋的关系。"
+    },
+    "walk": {
+      "es": [
+        "Localiza la torre",
+        "Recorre dos lados de la plaza y compara las fachadas",
+        "Sal hacia la vecina calle Lourdes"
+      ],
+      "en": [
+        "Locate the tower",
+        "Walk two sides of the square to compare the façades",
+        "Leave towards nearby Calle Lourdes"
+      ],
+      "zh": [
+        "先找到高塔",
+        "沿广场两边步行比较街屋",
+        "从朝向卢尔德街的一侧离开"
+      ]
+    },
+    "image": "/nearby/san-sebastian.webp",
+    "photoTip": {
+      "es": "Cuando haya tarima o público, usa los bordes de la plaza y encuadra la torre por encima de la actividad. Deja libres los accesos al escenario.",
+      "en": "If a stage or audience fills the square, frame the tower above the activity from one side. Keep access to the stage clear.",
+      "zh": "遇到搭台或集会，可从一侧拍高塔与活动场景，避开演员和观众的进出通道。"
+    },
+    "source": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "photoSource": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "manager": "Municipio de Loja",
+    "hours": {
+      "es": "Espacio público; programa la visita con luz diurna. Una celebración puede ocupar parte de la plaza.",
+      "en": "Public square; daylight is best for looking at the surroundings. An event may occupy part of the space.",
+      "zh": "公共广场适合在白天步行，庆典期间部分区域会用作活动场地。"
+    },
+    "fee": {
+      "es": "Acceso peatonal libre. Compras y actividades puntuales se pagan aparte.",
+      "en": "No ticket for walking through the square. Purchases and individual events are separate.",
+      "zh": "步行经过广场无需购买门票，消费与特别活动另计。"
+    },
+    "faq": {
+      "es": [
+        "¿Qué hacer si hay un espectáculo en la plaza?",
+        "Usa el perímetro junto a las fachadas y deja libre el acceso al escenario. La torre se ve por encima del público."
+      ],
+      "en": [
+        "What if the square is hosting an event?",
+        "Follow the perimeter beside the façades and leave the stage access open. The tower is visible above the audience."
+      ],
+      "zh": [
+        "广场有演出时怎么走？",
+        "沿建筑外缘走，给舞台出入口留出空间；高塔从人群后方也看得见。"
+      ]
+    }
+  },
+  {
+    "slug": "centro-alfredo-mora-reyes",
+    "name": {
+      "es": "Centro Cultural Alfredo Mora Reyes",
+      "en": "Alfredo Mora Reyes Cultural Centre",
+      "zh": "阿尔弗雷多·莫拉·雷耶斯文化中心"
+    },
+    "address": "Sector San Sebastián, Loja",
+    "kind": "performance",
+    "intro": {
+      "es": "Este centro cultural tiene más sentido cuando coincide con una actividad. En vez de contar con una exposición permanente, revisa la convocatoria y distingue ensayo, función pública y taller con inscripción. Combina una visita breve con el paseo por San Sebastián.",
+      "en": "A programme gives this cultural centre its purpose. Look at the announcement before setting aside time: a rehearsal, public performance and registered workshop have different access arrangements. Combine a short stop with nearby San Sebastián Square.",
+      "zh": "文化中心值得留出多少时间，要看当天的活动单。排练、公开演出与需要报名的工作坊进场方式不同。先从圣塞巴斯蒂安广场步行过来看告示，再决定是买票、登记还是继续老城散步。"
+    },
+    "walk": {
+      "es": [
+        "Acércate desde San Sebastián",
+        "Lee fecha, sala y acceso en la cartelera",
+        "Vuelve a la plaza al terminar o antes de la función"
+      ],
+      "en": [
+        "Approach from San Sebastián",
+        "Check the date, room and entry instructions on the notice",
+        "Return to the square after the event or before the doors open"
+      ],
+      "zh": [
+        "从圣塞巴斯蒂安广场步行前往",
+        "在告示处核对日期、场地和入场条件",
+        "结束后或开场前沿原路回到广场"
+      ]
+    },
+    "image": "/nearby/centro-alfredo-mora-reyes.webp",
+    "photoTip": {
+      "es": "Fotografía la cartelera con fecha antes de entrar. Sirve para identificar a artistas y agrupaciones sin interrumpir una función con el teléfono.",
+      "en": "A photograph of the dated programme identifies the artists later without taking your phone out during the event.",
+      "zh": "入场前拍下带日期的节目单，离场后可以查出演者姓名，也避免中途掏手机影响观众。"
+    },
+    "source": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "photoSource": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "manager": "Municipio de Loja · Dirección de Cultura",
+    "hours": {
+      "es": "El horario depende de la función o taller anunciado. Comprueba fecha y apertura de puertas.",
+      "en": "Hours follow the advertised show or workshop. Check the date and door time.",
+      "zh": "按具体演出或工作坊日程入场，请以当天公布的开门时间为准。"
+    },
+    "fee": {
+      "es": "La entrada es específica de cada función; confirma si requiere reserva, boleto o inscripción.",
+      "en": "Admission is set per event: check whether you need a reservation, ticket or registration.",
+      "zh": "每场活动独立安排票价和报名，请查节目单。"
+    },
+    "faq": {
+      "es": [
+        "¿Un anuncio de taller equivale a una función abierta?",
+        "Consulta si requiere inscripción, quién puede participar y la hora de apertura; las condiciones cambian con cada actividad."
+      ],
+      "en": [
+        "Does a workshop listing mean I can attend without booking?",
+        "Check registration, eligibility and door time. The arrangements change with each activity."
+      ],
+      "zh": [
+        "看到工作坊海报就可以直接入场吗？",
+        "先确认是否需要报名、参与对象和开门时间，不同活动分别安排。"
+      ]
+    }
+  },
+  {
+    "slug": "calle-lourdes",
+    "name": {
+      "es": "Calle Lourdes",
+      "en": "Calle Lourdes heritage street",
+      "zh": "卢尔德老街"
+    },
+    "address": "Calle Lourdes, sector San Sebastián, Loja",
+    "kind": "street",
+    "intro": {
+      "es": "Las casas de poca altura y las fachadas de colores hacen que esta calle se lea a escala peatonal. Mira primero una cuadra completa y después los portales y balcones individuales. Las fachadas se ven desde la vía pública; muchas de las puertas siguen siendo viviendas.",
+      "en": "Low houses and coloured façades make this street best appreciated on foot. Look along a whole block, then pick out individual doorways and balconies. The street is public but many of its doors still lead to people's homes.",
+      "zh": "街道两旁的低层彩色房屋适合慢慢走。先从街口看一整段立面，再挑一扇门或一处阳台观察材料。许多门后仍是住宅，取景时站在人行道，不要进入私人门廊。"
+    },
+    "walk": {
+      "es": [
+        "Empieza del lado de San Sebastián",
+        "Camina una cuadra por la acera mirando la línea de balcones",
+        "Regresa por la otra acera para ver el cambio de luz"
+      ],
+      "en": [
+        "Begin on the San Sebastián side",
+        "Walk one block following the line of balconies",
+        "Return on the other pavement to see how the light changes"
+      ],
+      "zh": [
+        "从靠圣塞巴斯蒂安广场的一端进入",
+        "沿一侧人行道走一个街区，看阳台连成的线",
+        "从对侧步道返回，比较顺光和侧光"
+      ]
+    },
+    "image": "/nearby/calle-lourdes.webp",
+    "photoTip": {
+      "es": "Fotografía a lo largo de la acera para reunir varias fachadas. A corta distancia una puerta o un herraje permite mostrar la textura sin acercarse a las ventanas.",
+      "en": "Look down the pavement for a sequence of façades. At closer range, a doorway or fitting shows texture without pointing into a window.",
+      "zh": "沿人行道纵向拍多栋立面，近景可拍门扇或金属构件的纹理，镜头避开住家的窗内空间。"
+    },
+    "source": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "photoSource": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "manager": "Municipio de Loja",
+    "hours": {
+      "es": "Vía pública; el acceso a cada local depende de su propio horario.",
+      "en": "Public street; individual businesses set their hours.",
+      "zh": "街道对行人开放，各家店铺独立营业。"
+    },
+    "fee": {
+      "es": "Paseo gratuito. El consumo en los locales es opcional.",
+      "en": "Free to walk along the street; purchases are optional.",
+      "zh": "步行游览免费，店内消费自选。"
+    },
+    "faq": {
+      "es": [
+        "¿Las puertas pintadas forman parte de un museo?",
+        "La calle incluye viviendas. Disfruta de las fachadas desde la acera y entra solamente donde haya acceso público anunciado."
+      ],
+      "en": [
+        "Are the colourful doorways museum entrances?",
+        "The street includes homes. View façades from the pavement and enter only where public access is signposted."
+      ],
+      "zh": [
+        "街上彩色房门都是展览入口吗？",
+        "这里仍有住宅，可从人行道看建筑，只进入明确标示向公众开放的场所。"
+      ]
+    }
+  },
+  {
+    "slug": "el-pedestal",
+    "name": {
+      "es": "Mirador El Pedestal",
+      "en": "El Pedestal lookout",
+      "zh": "埃尔佩德斯塔尔观景台"
+    },
+    "address": "Barrio El Pedestal, Loja",
+    "kind": "view",
+    "intro": {
+      "es": "El monumento de la Virgen ayuda a reconocer este mirador desde el barrio. Antes de mirar a la ciudad, sitúate al pie del pedestal y observa cómo la altura del monumento se suma al desnivel natural. Reserva parte de la visita para el descenso por el mismo acceso.",
+      "en": "The Virgin's monument identifies the lookout from the surrounding neighbourhood. Start at its base to see how the pedestal adds to the natural rise, then turn towards Loja. Allow time for the return descent by the access you used.",
+      "zh": "圣母纪念像是从街区辨认观景台的标志。先站在基座旁看雕像如何利用天然高差，再转过身看谷底的城区。抵达后记住上坡的路口，时间安排要把原路下坡也算进去。"
+    },
+    "walk": {
+      "es": [
+        "Sigue el acceso señalizado del barrio",
+        "Detente primero en la base del monumento y luego en la zona de vista",
+        "Regresa al mismo punto de recogida"
+      ],
+      "en": [
+        "Follow the neighbourhood approach",
+        "Stop at the monument base and then at the viewing area",
+        "Retrace the access to your pickup point"
+      ],
+      "zh": [
+        "沿街区标示通道上行",
+        "在雕像基座和观景处各停一次",
+        "沿原路返回约定接车点"
+      ]
+    },
+    "image": "/nearby/el-pedestal.webp",
+    "photoTip": {
+      "es": "Toma una imagen desde abajo para explicar el pedestal y otra mirando al valle. Si el cielo está cubierto conserva la primera como referencia del lugar.",
+      "en": "Take a low view of the pedestal, then turn to the valley. In low cloud the first image still identifies the place.",
+      "zh": "先仰拍基座和雕像，再转向谷底拍全景。即使低云遮住城市，第一张仍能交代地点。"
+    },
+    "source": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "photoSource": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "manager": "Municipio de Loja",
+    "hours": {
+      "es": "Ve con luz de día y comprueba si están abiertas las gradas y el acceso. En caso de neblina, prioriza una parada corta.",
+      "en": "Visit in daylight and check access to steps on arrival. Keep the stop short in low cloud.",
+      "zh": "宜选择白天，抵达后确认台阶和通道开放；有雾时可缩短停留。"
+    },
+    "fee": {
+      "es": "La vista desde la vía pública es libre; el traslado por la ladera puede tener costo.",
+      "en": "The view from public space is free. Transport up the hillside is separate.",
+      "zh": "公共空间观景无需门票，上山的交通费用另计。"
+    },
+    "faq": {
+      "es": [
+        "¿Qué conserva interés si el valle está cubierto?",
+        "Se puede observar la figura de la Virgen sobre el pedestal y su relación con la pendiente del barrio."
+      ],
+      "en": [
+        "What can I see if clouds obscure the valley?",
+        "The Virgin's figure and pedestal still show how the monument uses the neighbourhood slope."
+      ],
+      "zh": [
+        "谷底被云遮住时还有什么可看？",
+        "可观察圣母像、基座与街区坡地的高差，不需要依赖远景。"
+      ]
+    }
+  },
+  {
+    "slug": "las-tapillas",
+    "name": {
+      "es": "Mirador Las Tapillas",
+      "en": "Las Tapillas lookout",
+      "zh": "拉斯塔皮亚斯观景台"
+    },
+    "address": "Mirador Las Tapillas, ladera de Loja",
+    "kind": "view",
+    "intro": {
+      "es": "Este punto de la ladera permite leer los barrios como franjas en vez de como una sucesión de esquinas. Escoge primero una referencia grande en el fondo del valle y síguela con la vista hasta que desaparezca entre las casas. La neblina puede ocultar precisamente esa vista larga.",
+      "en": "From this hillside the neighbourhoods appear as bands rather than a sequence of street corners. Choose one large landmark on the valley floor and trace it until the buildings hide it. Low cloud can obscure this long view, so check visibility before taking the uphill journey.",
+      "zh": "在山坡高处，洛哈的街区会像条带一样展开。先在谷底选一处显眼建筑，再沿着相连街道用目光追踪，直到它消失在屋顶后方。低云会挡住这种远景，上坡前先在城区看一眼山坡能见度。"
+    },
+    "walk": {
+      "es": [
+        "Fija el acceso exacto del mirador en el mapa",
+        "Desde el área pública mira primero al valle y luego a la ladera cercana",
+        "Regresa por el acceso del barrio"
+      ],
+      "en": [
+        "Mark the lookout approach on the map",
+        "From the public viewpoint compare the valley with the nearer hillside",
+        "Return by the neighbourhood access"
+      ],
+      "zh": [
+        "先在地图标下观景入口",
+        "从公共停留处依次观察谷底与近处坡地",
+        "从街区通道原路返回"
+      ]
+    },
+    "image": "/nearby/las-tapillas.webp",
+    "photoTip": {
+      "es": "Usa los tejados cercanos como primer plano. Si la ciudad se pierde en la bruma, evita bajar por caminos laterales buscando una vista más despejada.",
+      "en": "Use the nearer roofs in the foreground. In haze, stay on the public route instead of descending side tracks in search of a clearer view.",
+      "zh": "用近处屋顶作为前景；远方雾重时，保留近景即可，不必离开公共通道找更远的视角。"
+    },
+    "source": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "photoSource": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "manager": "Municipio de Loja",
+    "hours": {
+      "es": "Ve con luz de día y comprueba si están abiertas las gradas y el acceso. En caso de neblina, prioriza una parada corta.",
+      "en": "Visit in daylight and check access to steps on arrival. Keep the stop short in low cloud.",
+      "zh": "宜选择白天，抵达后确认台阶和通道开放；有雾时可缩短停留。"
+    },
+    "fee": {
+      "es": "La vista desde la vía pública es libre; el traslado por la ladera puede tener costo.",
+      "en": "The view from public space is free. Transport up the hillside is separate.",
+      "zh": "公共空间观景无需门票，上山的交通费用另计。"
+    },
+    "faq": {
+      "es": [
+        "¿Cómo aprovechar un mirador entre casas?",
+        "Distingue los tejados del primer plano y después sigue una vía hacia el fondo del valle. No entres en terrazas particulares."
+      ],
+      "en": [
+        "How can I make sense of a view framed by houses?",
+        "Separate the near roofs visually, then follow a road towards the valley floor. Stay off private terraces."
+      ],
+      "zh": [
+        "住宅之间的观景点怎样看得更清楚？",
+        "先辨认近景屋顶，再顺一条街道望向谷底，不进入私人露台。"
+      ]
+    }
+  },
+  {
+    "slug": "el-churo",
+    "name": {
+      "es": "Mirador El Churo",
+      "en": "El Churo lookout",
+      "zh": "埃尔丘罗观景台"
+    },
+    "address": "Mirador El Churo, Loja",
+    "kind": "view",
+    "intro": {
+      "es": "El monumento elevado y su baranda distinguen El Churo de otros miradores de Loja. Acércate por el paso habilitado para ver la relación entre la plataforma y la ciudad. Si las gradas están cerradas, la vista desde el espacio público inferior sigue mostrando el relieve del barrio.",
+      "en": "A raised monument and railing distinguish El Churo from Loja's other lookouts. Approach on the open path to understand the platform's position above the neighbourhood. If the steps are closed, the lower public space still shows how sharply the land rises.",
+      "zh": "抬高的纪念台和栏杆是埃尔丘罗区别于其他观景台的特征。沿开放步道走近，能看出平台比周围住宅高出多少。台阶若有围挡，可以在下方公共空间观察地形，不必寻找其他攀登路线。"
+    },
+    "walk": {
+      "es": [
+        "Empieza en el acceso al monumento",
+        "Sube solo por las gradas abiertas y mira la ciudad desde la baranda",
+        "Baja por el mismo tramo antes de continuar"
+      ],
+      "en": [
+        "Start at the monument approach",
+        "Use the open steps and look out from the railing",
+        "Descend the same section before carrying on"
+      ],
+      "zh": [
+        "从纪念台入口出发",
+        "沿开放的台阶上行，从栏杆内侧看城区",
+        "沿同一段台阶返回"
+      ]
+    },
+    "image": "/nearby/el-churo.webp",
+    "photoTip": {
+      "es": "Desde abajo incluye la curva de la baranda; desde la plataforma abierta deja el barrio como fondo. No te apoyes fuera de la protección para ganar altura.",
+      "en": "Include the railing's curve from below; from the open platform place the neighbourhood behind it. Stay inside the protective rail.",
+      "zh": "下方视角可以拍到栏杆曲线，登台后再让街区成为背景。取景时留在护栏内侧。"
+    },
+    "source": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "photoSource": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "manager": "Municipio de Loja",
+    "hours": {
+      "es": "Ve con luz de día y comprueba si están abiertas las gradas y el acceso. En caso de neblina, prioriza una parada corta.",
+      "en": "Visit in daylight and check access to steps on arrival. Keep the stop short in low cloud.",
+      "zh": "宜选择白天，抵达后确认台阶和通道开放；有雾时可缩短停留。"
+    },
+    "fee": {
+      "es": "La vista desde la vía pública es libre; el traslado por la ladera puede tener costo.",
+      "en": "The view from public space is free. Transport up the hillside is separate.",
+      "zh": "公共空间观景无需门票，上山的交通费用另计。"
+    },
+    "faq": {
+      "es": [
+        "¿Hay que subir la plataforma para reconocer el lugar?",
+        "Desde el acceso inferior se distinguen el monumento y la baranda. Solo usa las gradas cuando estén habilitadas."
+      ],
+      "en": [
+        "Do I need to climb the platform to recognise the lookout?",
+        "The monument and railing are visible from the lower approach. Use the steps only when open."
+      ],
+      "zh": [
+        "必须登上平台才看得出这里的特色吗？",
+        "从下方入口已能看见纪念台和栏杆，台阶开放时再上行。"
+      ]
+    }
+  },
+  {
+    "slug": "el-pucara",
+    "name": {
+      "es": "Parque Colinar Pucará Podocarpus",
+      "en": "Pucará hillside park",
+      "zh": "普卡拉山地公园"
+    },
+    "address": "César Vallejo y Máximo Agustín Rodríguez, barrio El Pucará, Loja",
+    "kind": "park",
+    "intro": {
+      "es": "El parque ocupa una ladera del sureste de Loja. El nombre Podocarpus puede confundirse con el parque nacional; para esta salida utiliza la dirección del barrio El Pucará. Alterna los claros con un tramo de sendero y compara la vista urbana con la vegetación de la pendiente.",
+      "en": "This park occupies a hillside in south-eastern Loja. Its Podocarpus name is easily confused with the national park: use the El Pucará neighbourhood address for this visit. Alternate an open space with a stretch of path to compare the city view with the slope's vegetation.",
+      "zh": "公园位于洛哈东南侧山坡，名称中也有 Podocarpus。导航要输入埃尔普卡拉街区的城市公园，避免被带往同名国家公园。先在开阔处看城区，再沿开放步道看坡地植被的变化。"
+    },
+    "walk": {
+      "es": [
+        "Llega por el acceso del barrio El Pucará",
+        "Sigue un tramo señalizado desde el área recreativa",
+        "Retorna al acceso antes de bajar a la ciudad"
+      ],
+      "en": [
+        "Use the El Pucará neighbourhood entrance",
+        "Follow a signed path from the recreational area",
+        "Retrace it to the entrance before heading downhill"
+      ],
+      "zh": [
+        "从埃尔普卡拉街区入口进园",
+        "从休闲区选一段有标示的山坡步道",
+        "原路回到入口后再下城"
+      ]
+    },
+    "image": "/nearby/el-pucara.webp",
+    "photoTip": {
+      "es": "Elige el borde de un claro para contrastar las copas de los árboles con la ciudad. La sombra del sendero cambia la exposición respecto al cielo de la ladera.",
+      "en": "At the edge of a clearing, set tree crowns against the city. The shaded trail and the bright hillside sky often need different exposures.",
+      "zh": "在空地边缘把树冠与城区放在同一画面中；步道阴影和坡地天空亮度差距大，宜分别测光。"
+    },
+    "source": "https://www.loja.gob.ec/files/image/dependencias/gestionambiental/6._parques_de_la_ciudad_de_loja.pdf",
+    "photoSource": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "manager": "Municipio de Loja · Gestión Ambiental",
+    "hours": {
+      "es": "Comprueba la apertura de senderos y servicios a la entrada; las actividades organizadas pueden tener otro horario.",
+      "en": "Check open paths and facilities at the entrance; organised activities may follow a separate timetable.",
+      "zh": "在公园入口确认步道与设施开放情况，有组织的活动另有日程。"
+    },
+    "fee": {
+      "es": "Distingue el acceso peatonal de los servicios de pago. Confirma el precio de la actividad elegida antes de reservarla.",
+      "en": "Ask separately about park entry and paid facilities. Confirm the price of the activity you choose.",
+      "zh": "入园与单项设施分开确认，请在预订活动前核实该项目的费用。"
+    },
+    "faq": {
+      "es": [
+        "¿Este acceso conduce al Parque Nacional Podocarpus?",
+        "Esta ficha trata del parque urbano del barrio El Pucará. Para el parque nacional se necesita otro itinerario."
+      ],
+      "en": [
+        "Is this an entrance to Podocarpus National Park?",
+        "This guide covers the urban park in El Pucará. Visiting the national park requires a different itinerary."
+      ],
+      "zh": [
+        "从这里可以进入波多卡普斯国家公园吗？",
+        "这一站是埃尔普卡拉街区的城市山地公园，游览国家公园需要安排不同的入口和交通。"
+      ]
+    }
+  },
+  {
+    "slug": "plaza-cultura-universitaria",
+    "name": {
+      "es": "Plaza de la Cultura Universitaria",
+      "en": "University Culture Square",
+      "zh": "大学文化广场"
+    },
+    "address": "Ciudadela Universitaria, sector La Argelia, Loja",
+    "kind": "campus",
+    "intro": {
+      "es": "El monumento central y los espacios abiertos conforman una plaza de encuentro universitario. No la confundas con el campus San Cayetano de la UTPL. Observa el conjunto desde el borde, donde se aprecia tanto la altura de las columnas como la disposición de las circulaciones peatonales.",
+      "en": "A central monument anchors this university gathering place. It is a different stop from UTPL's San Cayetano campus. Stand at the edge to see the height of the columns and how the pedestrian approaches converge on the centre.",
+      "zh": "广场中央的纪念建筑是大学公共空间的视觉中心。这里与圣卡耶塔诺的私立技术大学校区不同，出发前核对大学城位置。从外缘看柱体和步道汇合的方向，比站在正下方更清楚。"
+    },
+    "walk": {
+      "es": [
+        "Pregunta por la plaza en el acceso de la Ciudadela",
+        "Recorre el borde y acércate al monumento por un paso abierto",
+        "Vuelve al acceso sin atravesar edificios docentes"
+      ],
+      "en": [
+        "Ask for the square at the Ciudadela entrance",
+        "Walk the edge, then approach the monument on an open path",
+        "Return to the entrance without cutting through teaching buildings"
+      ],
+      "zh": [
+        "在大学城入口问明广场位置",
+        "先走广场边缘，再沿开放人行道接近纪念建筑",
+        "原路离开，避开教学楼内部通道"
+      ]
+    },
+    "image": "/nearby/plaza-cultura-universitaria.webp",
+    "photoTip": {
+      "es": "Fotografía el monumento desde uno de los ejes peatonales. Respeta los actos académicos y evita incluir a estudiantes en primer plano sin permiso.",
+      "en": "Frame the monument along a pedestrian approach. Give academic events space and ask before photographing students at close range.",
+      "zh": "从通往中心的人行步道取纪念建筑，遇到学校活动需让出通道，拍摄学生特写前请征得同意。"
+    },
+    "source": "https://unl.edu.ec/",
+    "photoSource": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "manager": "Universidad Nacional de Loja",
+    "hours": {
+      "es": "Comprueba el acceso público en recepción antes de subir. Las salas siguen el calendario universitario.",
+      "en": "Confirm public access with reception before travelling up. Rooms follow the university calendar.",
+      "zh": "出发上坡前向校方接待处确认，室内场所按校方日程开放。"
+    },
+    "fee": {
+      "es": "Consulta en recepción la visita y cualquier tarifa de exposición; la autorización de entrada no incluye aulas.",
+      "en": "Ask about visitor access and any exhibition fee. Permission to enter does not extend to classrooms.",
+      "zh": "展馆收费及校园访客准入请咨询接待处，教学楼另有管理。"
+    },
+    "faq": {
+      "es": [
+        "¿Dónde pregunto por el monumento de columnas?",
+        "Pregunta por la Plaza de la Cultura en la Ciudadela Universitaria de La Argelia, no en San Cayetano Alto."
+      ],
+      "en": [
+        "Where should I ask for the columned monument?",
+        "Ask for Plaza de la Cultura at the La Argelia university campus rather than San Cayetano Alto."
+      ],
+      "zh": [
+        "到哪里询问广场上的柱状纪念建筑？",
+        "在拉阿尔赫利亚大学城询问文化广场，别前往圣卡耶塔诺上区的另一所大学。"
+      ]
+    }
+  },
+  {
+    "slug": "orillas-del-zamora",
+    "name": {
+      "es": "Parque Recreacional Orillas del Zamora",
+      "en": "Orillas del Zamora riverside park",
+      "zh": "萨莫拉河岸休闲公园"
+    },
+    "address": "Sector norte, antigua vía a Cuenca, Loja",
+    "kind": "park",
+    "intro": {
+      "es": "El tramo recreativo se encuentra al norte de Loja, junto al río Zamora. El sendero y los recintos de actividades son visitas distintas. Para una caminata breve empieza por las orillas y deja el kartódromo u otras instalaciones para después de comprobar horarios y tarifas propios.",
+      "en": "This recreation area follows the Zamora in northern Loja. Its riverside path and activity facilities are separate visits. Start with the river for a short walk and leave the karting area or other facilities until you have checked their own opening times and prices.",
+      "zh": "公园位于洛哈北部萨莫拉河畔。河岸步道与卡丁车等有围栏的设施属于不同的游览项目。如果只安排短途步行，先沿河看水岸景观，再到设施入口单独查询开放时间和费用。"
+    },
+    "walk": {
+      "es": [
+        "Entra desde la antigua vía a Cuenca",
+        "Sigue el tramo peatonal junto al río",
+        "Vuelve hacia los servicios por el mismo camino antes de elegir una actividad"
+      ],
+      "en": [
+        "Enter from the old Cuenca road",
+        "Follow the riverside pedestrian section",
+        "Return on the same path before choosing a separate activity"
+      ],
+      "zh": [
+        "从旧昆卡公路一侧进园",
+        "沿靠河的人行段步行",
+        "沿原路回到服务区，再决定是否参加其他项目"
+      ]
+    },
+    "image": "/nearby/orillas-del-zamora.webp",
+    "photoTip": {
+      "es": "Desde la senda pública incluye la vegetación de la ribera para mostrar el curso del río. La zona de karting debe fotografiarse desde el lado de espectadores.",
+      "en": "Frame riverside vegetation from the public path to show the course of the water. Photograph karting only from the spectator side.",
+      "zh": "从公共步道把岸边植被纳入构图显示河流走势；拍卡丁车应在观众侧停留。"
+    },
+    "source": "https://www.loja.gob.ec/files/image/dependencias/gestionambiental/6._parques_de_la_ciudad_de_loja.pdf",
+    "photoSource": "https://www.loja.gob.ec/files/image/dependencias/gestionambiental/6._parques_de_la_ciudad_de_loja.pdf",
+    "manager": "Municipio de Loja · Gestión Ambiental",
+    "hours": {
+      "es": "Comprueba la apertura de senderos y servicios a la entrada; las actividades organizadas pueden tener otro horario.",
+      "en": "Check open paths and facilities at the entrance; organised activities may follow a separate timetable.",
+      "zh": "在公园入口确认步道与设施开放情况，有组织的活动另有日程。"
+    },
+    "fee": {
+      "es": "Distingue el acceso peatonal de los servicios de pago. Confirma el precio de la actividad elegida antes de reservarla.",
+      "en": "Ask separately about park entry and paid facilities. Confirm the price of the activity you choose.",
+      "zh": "入园与单项设施分开确认，请在预订活动前核实该项目的费用。"
+    },
+    "faq": {
+      "es": [
+        "¿El paseo por el río incluye el kartódromo?",
+        "El paseo y la actividad son experiencias separadas. Consulta en el recinto la disponibilidad y el precio del karting."
+      ],
+      "en": [
+        "Does the riverside walk include karting?",
+        "The walk and the activity are separate. Check availability and prices at the karting facility."
+      ],
+      "zh": [
+        "沿河步行也包含卡丁车活动吗？",
+        "河岸步行与卡丁车分开，卡丁车开放情况和收费应到设施入口询问。"
+      ]
+    }
+  },
+  {
+    "slug": "carigan-villonaco",
+    "name": {
+      "es": "Parque Colinar Carigán Villonaco",
+      "en": "Carigán Villonaco hillside park",
+      "zh": "卡里甘山地公园"
+    },
+    "address": "Sector Carigán, oeste de Loja",
+    "kind": "park",
+    "intro": {
+      "es": "Este parque de ladera y lagunas figura en la guía ambiental municipal. Comparte el nombre Villonaco con la central eólica, pero el acceso y la experiencia son diferentes. Elige un tramo junto al agua antes de tomar un sendero: así puedes volver a una referencia visible.",
+      "en": "The municipal environmental guide identifies a hillside park with lagoons here. Although it shares the name Villonaco with the wind farm, the approach and visit are different. Begin beside the water before joining a marked path so you have a visible return landmark.",
+      "zh": "市政环境资料将这里列为有湖泊的山地公园。它与风电场都使用维约纳科地名，两者的入口和体验不同。先沿水岸确定一个容易识别的返回点，再进入标示步道。"
+    },
+    "walk": {
+      "es": [
+        "Llega al sector Carigán y confirma el acceso del parque",
+        "Camina hasta el borde habilitado de la laguna",
+        "Regresa por el sendero señalizado al punto de llegada"
+      ],
+      "en": [
+        "Reach Carigán and confirm the park entrance",
+        "Walk to the open edge of the lagoon",
+        "Follow the signed return to the arrival point"
+      ],
+      "zh": [
+        "到卡里甘片区后确认公园入口",
+        "沿步道走到开放的湖岸",
+        "按指示走回到达点"
+      ]
+    },
+    "image": "/nearby/carigan-villonaco.webp",
+    "photoTip": {
+      "es": "La línea de la orilla separa el reflejo de la ladera. Un punto bajo desde el sendero basta; no hace falta entrar al agua para componerlo.",
+      "en": "The shoreline separates the hillside from its reflection. A low angle on the path gives the effect without entering the water.",
+      "zh": "用岸线分隔坡地与倒影，从步道降低机位就能拍出这一效果，无需涉水。"
+    },
+    "source": "https://www.loja.gob.ec/files/image/dependencias/gestionambiental/6._parques_de_la_ciudad_de_loja.pdf",
+    "photoSource": "https://www.loja.gob.ec/files/image/dependencias/gestionambiental/6._parques_de_la_ciudad_de_loja.pdf",
+    "manager": "Municipio de Loja · Gestión Ambiental",
+    "hours": {
+      "es": "Comprueba la apertura de senderos y servicios a la entrada; las actividades organizadas pueden tener otro horario.",
+      "en": "Check open paths and facilities at the entrance; organised activities may follow a separate timetable.",
+      "zh": "在公园入口确认步道与设施开放情况，有组织的活动另有日程。"
+    },
+    "fee": {
+      "es": "Distingue el acceso peatonal de los servicios de pago. Confirma el precio de la actividad elegida antes de reservarla.",
+      "en": "Ask separately about park entry and paid facilities. Confirm the price of the activity you choose.",
+      "zh": "入园与单项设施分开确认，请在预订活动前核实该项目的费用。"
+    },
+    "faq": {
+      "es": [
+        "¿El parque de Carigán es la central eólica?",
+        "Son visitas distintas. Busca el parque colinar para las lagunas y la central Villonaco para el recorrido industrial."
+      ],
+      "en": [
+        "Is the Carigán park the wind farm?",
+        "They are different visits. Choose the hillside park for the lagoons and the Villonaco facility for the wind-farm visit."
+      ],
+      "zh": [
+        "卡里甘公园和维约纳科风电场是同一个入口吗？",
+        "不是同一个入口。看湖泊应导航山地公园，参观风机则选择维约纳科风电场的访客入口。"
+      ]
+    }
+  },
+  {
+    "slug": "yamburara",
+    "name": {
+      "es": "Parque Recreacional Yamburara",
+      "en": "Yamburara recreation park",
+      "zh": "扬布拉拉休闲公园"
+    },
+    "address": "Barrio Yamburara, parroquia Vilcabamba, cantón Loja",
+    "kind": "park",
+    "intro": {
+      "es": "Yamburara se visita desde Vilcabamba, fuera del casco urbano de Loja. El folleto municipal distingue el orquideario, los estanques y los espacios recreativos. Antes de dedicar tiempo a una instalación concreta, pregunta cuáles abren ese día y a qué hora sale tu transporte de regreso.",
+      "en": "Approach Yamburara from Vilcabamba, outside the city of Loja. The municipal park inventory distinguishes the orchid area, ponds and recreation spaces. Check which facilities are open and settle your return transport before committing time to one activity.",
+      "zh": "扬布拉拉位于比尔卡班巴教区，不在洛哈市中心。市政资料将兰花区、水池和休闲设施分别列出。先问清当天开放的是哪些区域，并确认返程交通，再决定把时间花在观花、观水还是活动区。"
+    },
+    "walk": {
+      "es": [
+        "Llega al barrio Yamburara desde Vilcabamba",
+        "En recepción elige entre el circuito de plantas y los espacios recreativos abiertos",
+        "Vuelve a la entrada para el traslado de regreso"
+      ],
+      "en": [
+        "Reach Yamburara from Vilcabamba",
+        "Ask at reception about the plant area and open recreation spaces",
+        "Return to the entrance for the transfer back"
+      ],
+      "zh": [
+        "由比尔卡班巴前往扬布拉拉街区",
+        "在入口询问植物区与休闲区开放情况后选择路线",
+        "回到入口乘返程交通"
+      ]
+    },
+    "image": "/nearby/yamburara.webp",
+    "photoTip": {
+      "es": "En el orquideario, cuando esté abierto, mira la etiqueta junto a la planta antes de hacer una foto de detalle. Evita mover flores para despejar el fondo.",
+      "en": "When the orchid area is open, read the label before taking a close-up. Leave flowers in place rather than moving them for a clear background.",
+      "zh": "兰花区若开放，拍特写前先读植物名牌。可以移动相机角度改善背景，不要拨动花朵。"
+    },
+    "source": "https://www.loja.gob.ec/files/image/dependencias/gestionambiental/6._parques_de_la_ciudad_de_loja.pdf",
+    "photoSource": "https://www.loja.gob.ec/files/image/dependencias/gestionambiental/6._parques_de_la_ciudad_de_loja.pdf",
+    "manager": "Municipio de Loja · Gestión Ambiental",
+    "hours": {
+      "es": "Comprueba la apertura de senderos y servicios a la entrada; las actividades organizadas pueden tener otro horario.",
+      "en": "Check open paths and facilities at the entrance; organised activities may follow a separate timetable.",
+      "zh": "在公园入口确认步道与设施开放情况，有组织的活动另有日程。"
+    },
+    "fee": {
+      "es": "Distingue el acceso peatonal de los servicios de pago. Confirma el precio de la actividad elegida antes de reservarla.",
+      "en": "Ask separately about park entry and paid facilities. Confirm the price of the activity you choose.",
+      "zh": "入园与单项设施分开确认，请在预订活动前核实该项目的费用。"
+    },
+    "faq": {
+      "es": [
+        "¿Puedo llegar caminando desde el centro de Loja en una visita corta?",
+        "Organiza primero el traslado a Vilcabamba. La parte a pie empieza en el barrio Yamburara."
+      ],
+      "en": [
+        "Can this be a short walk from downtown Loja?",
+        "Arrange transport to Vilcabamba first. The walking portion begins in the Yamburara neighbourhood."
+      ],
+      "zh": [
+        "能从洛哈市中心短距离步行到这里吗？",
+        "应先安排到比尔卡班巴的交通，步行段从扬布拉拉街区开始。"
+      ]
+    }
+  },
+  {
+    "slug": "zamora-huayco",
+    "name": {
+      "es": "Parque Lineal Zamora Huayco",
+      "en": "Zamora Huayco linear park",
+      "zh": "萨莫拉瓦伊科河滨步道"
+    },
+    "address": "Barrio Zamora Huayco, sureste de Loja",
+    "kind": "park",
+    "intro": {
+      "es": "Aquí el atractivo es seguir un tramo de ribera, no completar una vuelta a un edificio. Alterna las vistas sobre el cauce con los árboles del sendero, especialmente si quieres observar aves. Es un parque distinto de Orillas del Zamora, situado en el norte de la ciudad.",
+      "en": "This is a stretch of riverside to follow rather than a building to circle. Alternate views of the channel with the trees beside the path, particularly for birdwatching. It is separate from the Orillas del Zamora recreation area north of town.",
+      "zh": "这里适合选一段河岸慢走，不需要围着某个建筑绕圈。观察鸟类时，在水面和步道旁树冠之间转换视线。导航应选东南部萨莫拉瓦伊科街区，以区别于市区北面的萨莫拉河岸休闲公园。"
+    },
+    "walk": {
+      "es": [
+        "Empieza en el barrio del mismo nombre",
+        "Sigue el tramo público del sendero junto al agua",
+        "Da la vuelta en un punto reconocible para regresar al barrio"
+      ],
+      "en": [
+        "Start in the neighbourhood of the same name",
+        "Follow the public riverside path",
+        "Turn at a recognisable landmark and return to the neighbourhood"
+      ],
+      "zh": [
+        "从同名街区进入",
+        "沿开放的滨水步道前行",
+        "选一处易辨认的地标折返"
+      ]
+    },
+    "image": "/nearby/zamora-huayco.webp",
+    "photoTip": {
+      "es": "Busca una vista donde coincidan agua, arbolado y sendero; explica mejor el carácter lineal que una imagen de un solo árbol.",
+      "en": "Find an angle with water, trees and path together. It shows the park's linear form better than an isolated tree.",
+      "zh": "让河面、乔木和步道同时入画，比单拍一棵树更容易看出线形公园的空间特点。"
+    },
+    "source": "https://www.loja.gob.ec/files/image/dependencias/gestionambiental/6._parques_de_la_ciudad_de_loja.pdf",
+    "photoSource": "https://www.loja.gob.ec/files/image/dependencias/gestionambiental/6._parques_de_la_ciudad_de_loja.pdf",
+    "manager": "Municipio de Loja · Gestión Ambiental",
+    "hours": {
+      "es": "Comprueba la apertura de senderos y servicios a la entrada; las actividades organizadas pueden tener otro horario.",
+      "en": "Check open paths and facilities at the entrance; organised activities may follow a separate timetable.",
+      "zh": "在公园入口确认步道与设施开放情况，有组织的活动另有日程。"
+    },
+    "fee": {
+      "es": "Distingue el acceso peatonal de los servicios de pago. Confirma el precio de la actividad elegida antes de reservarla.",
+      "en": "Ask separately about park entry and paid facilities. Confirm the price of the activity you choose.",
+      "zh": "入园与单项设施分开确认，请在预订活动前核实该项目的费用。"
+    },
+    "faq": {
+      "es": [
+        "¿Es el mismo paseo que Orillas del Zamora?",
+        "Este parque lineal está en el sureste. Orillas del Zamora se localiza hacia la antigua vía a Cuenca, en el norte."
+      ],
+      "en": [
+        "Is this the Orillas del Zamora park?",
+        "This linear park is in the south-east. Orillas del Zamora is in the north by the old Cuenca road."
+      ],
+      "zh": [
+        "这里就是北边的萨莫拉河岸公园吗？",
+        "这里是城区东南部的线形公园，北边旧昆卡公路旁的河岸公园是另一处。"
+      ]
+    }
+  },
+  {
+    "slug": "la-tebaida",
+    "name": {
+      "es": "Parque Lineal La Tebaida",
+      "en": "La Tebaida linear park",
+      "zh": "拉特拜达线形公园"
+    },
+    "address": "Entre las avenidas 18 de Noviembre y Pío Jaramillo Alvarado, Loja",
+    "kind": "park",
+    "intro": {
+      "es": "La franja verde del sur reúne áreas de juego y un sendero relacionado con la Ruta de la Cascarilla. Puedes dedicar la salida a un solo sector. Quien busque caminar debe identificar el inicio y el retorno antes de detenerse en el mobiliario deportivo.",
+      "en": "This southern green corridor combines play areas with a path associated with the Ruta de la Cascarilla. You can plan a visit around one section. Find the trail start and your return point before spending time at the exercise areas.",
+      "zh": "这条南部绿带同时设有游戏空间，也是认识金鸡纳树步道的一处起点。无需为了走完全程而匆忙穿过公园；进园时先确认步道入口和折返点，再决定是否留时间给运动设施。"
+    },
+    "walk": {
+      "es": [
+        "Entra por el acceso entre las dos avenidas",
+        "Localiza el inicio señalizado del sendero y camina solo el tramo disponible",
+        "Regresa a la zona de juegos para salir por la misma avenida"
+      ],
+      "en": [
+        "Use an entrance between the two avenues",
+        "Locate the signed trail and follow the open section",
+        "Return past the play area to the avenue where you began"
+      ],
+      "zh": [
+        "从两条大道之间的入口进入",
+        "找到标示起点，沿当日可通行的路段前进",
+        "经过活动区折返原来进入的大道"
+      ]
+    },
+    "image": "/nearby/la-tebaida.webp",
+    "photoTip": {
+      "es": "Sitúa el mobiliario recreativo en primer plano y el corredor verde al fondo. Al fotografiar cerca de juegos infantiles, mantén a los niños fuera del encuadre.",
+      "en": "Use recreation equipment in the foreground and the green corridor beyond. Near the play area keep children out of the frame.",
+      "zh": "可将活动设施作为前景、绿带作为背景。儿童游戏区附近取景时注意避开儿童正面。"
+    },
+    "source": "https://www.loja.gob.ec/files/image/dependencias/gestionambiental/6._parques_de_la_ciudad_de_loja.pdf",
+    "photoSource": "https://www.loja.gob.ec/files/image/dependencias/gestionambiental/6._parques_de_la_ciudad_de_loja.pdf",
+    "manager": "Municipio de Loja · Gestión Ambiental",
+    "hours": {
+      "es": "Comprueba la apertura de senderos y servicios a la entrada; las actividades organizadas pueden tener otro horario.",
+      "en": "Check open paths and facilities at the entrance; organised activities may follow a separate timetable.",
+      "zh": "在公园入口确认步道与设施开放情况，有组织的活动另有日程。"
+    },
+    "fee": {
+      "es": "Distingue el acceso peatonal de los servicios de pago. Confirma el precio de la actividad elegida antes de reservarla.",
+      "en": "Ask separately about park entry and paid facilities. Confirm the price of the activity you choose.",
+      "zh": "入园与单项设施分开确认，请在预订活动前核实该项目的费用。"
+    },
+    "faq": {
+      "es": [
+        "¿Tengo que recorrer toda la Ruta de la Cascarilla?",
+        "Puedes limitar la visita al tramo abierto dentro del parque y regresar a la zona recreativa por el mismo camino."
+      ],
+      "en": [
+        "Must I complete the entire Cascarilla route?",
+        "You can walk the open section within the park and return to the recreation area the same way."
+      ],
+      "zh": [
+        "需要把金鸡纳树步道全程走完吗？",
+        "可以只走公园内已开放的一段，然后原路回到休闲设施旁。"
+      ]
+    }
+  },
+  {
+    "slug": "daniel-alvarez-burneo",
+    "name": {
+      "es": "Parque Daniel Álvarez Burneo",
+      "en": "Daniel Álvarez Burneo lagoon park",
+      "zh": "达涅尔·阿尔瓦雷斯湖畔公园"
+    },
+    "address": "Av. Benjamín Carrión, suroeste de Loja",
+    "kind": "park",
+    "intro": {
+      "es": "Una laguna natural organiza el parque del suroeste. Dedica la primera parada a observar la orilla sin acercarte a las aves; después compara esa vista baja con la del mirador cuando el acceso esté abierto. Son dos lecturas diferentes de un mismo espacio de agua.",
+      "en": "A natural lagoon gives this south-western park its shape. Watch the shoreline first without approaching the birds, then compare the low view with the lookout if its access is open. These two angles tell different stories about the same stretch of water.",
+      "zh": "西南城区的这处公园围绕一片天然湖泊展开。先在岸边远观水鸟，再视开放情况从观景处回看同一段水岸。两个高度呈现的湖岸线不同，也是这座公园适合慢走的原因。"
+    },
+    "walk": {
+      "es": [
+        "Accede desde Benjamín Carrión",
+        "Sigue la orilla pública hasta el desvío del mirador",
+        "Regresa por el sendero a la avenida"
+      ],
+      "en": [
+        "Enter from Benjamín Carrión",
+        "Follow the public shore to the lookout junction",
+        "Return along the path to the avenue"
+      ],
+      "zh": [
+        "从本哈明·卡里翁大道进园",
+        "沿公共湖岸走到通往观景处的岔路",
+        "沿步道回到大道"
+      ]
+    },
+    "image": "/nearby/daniel-alvarez-burneo.webp",
+    "photoTip": {
+      "es": "Espera a que se calme la superficie para fotografiar el reflejo desde el borde público. Para observar aves resulta mejor permanecer quieto que rodear la laguna persiguiéndolas.",
+      "en": "Wait for a still patch of water to photograph reflections from the public shore. For birds, staying in one place is more effective than following them around the lagoon.",
+      "zh": "在公共岸边等水面较平时拍倒影。若要观鸟，固定在一个位置等候，比绕湖追逐更合适。"
+    },
+    "source": "https://www.loja.gob.ec/files/image/dependencias/gestionambiental/6._parques_de_la_ciudad_de_loja.pdf",
+    "photoSource": "https://www.loja.gob.ec/files/image/dependencias/gestionambiental/6._parques_de_la_ciudad_de_loja.pdf",
+    "manager": "Municipio de Loja · Gestión Ambiental",
+    "hours": {
+      "es": "Comprueba la apertura de senderos y servicios a la entrada; las actividades organizadas pueden tener otro horario.",
+      "en": "Check open paths and facilities at the entrance; organised activities may follow a separate timetable.",
+      "zh": "在公园入口确认步道与设施开放情况，有组织的活动另有日程。"
+    },
+    "fee": {
+      "es": "Distingue el acceso peatonal de los servicios de pago. Confirma el precio de la actividad elegida antes de reservarla.",
+      "en": "Ask separately about park entry and paid facilities. Confirm the price of the activity you choose.",
+      "zh": "入园与单项设施分开确认，请在预订活动前核实该项目的费用。"
+    },
+    "faq": {
+      "es": [
+        "¿Qué distingue esta laguna de un estanque decorativo?",
+        "La guía municipal identifica una laguna natural; su orilla y el mirador ofrecen puntos complementarios para observar aves."
+      ],
+      "en": [
+        "What is distinctive about the lagoon?",
+        "The municipal guide identifies it as a natural lagoon. The shore and lookout provide complementary views for birdwatching."
+      ],
+      "zh": [
+        "这片湖与一般公园里的装饰水池有什么不同？",
+        "市政资料将其记为天然湖泊，可结合岸边与观景处两个视角观察水鸟。"
+      ]
+    }
+  },
+  {
+    "slug": "central-villonaco",
+    "name": {
+      "es": "Central Eólica Villonaco",
+      "en": "Villonaco wind farm",
+      "zh": "维约纳科风电场"
+    },
+    "address": "Cerro Villonaco, al oeste de Loja",
+    "kind": "energy",
+    "intro": {
+      "es": "Desde la cresta se entiende por qué una central eólica ocupa esta montaña y no el fondo del valle. La sucesión de aerogeneradores ayuda a leer la forma del relieve. Limita el paseo a los espacios habilitados para visitantes: las plataformas de operación son instalaciones industriales.",
+      "en": "From the ridge it is easier to see why the wind farm occupies the mountain rather than the valley floor. The line of turbines follows the relief. Stay within the visitor areas; the operating platforms belong to an industrial facility.",
+      "zh": "登到山脊便能理解风电机组选址为何在高处而非谷底。沿着一列风机观察，可以读出山脊延伸的方向。这里也是运行中的工业设施，步行与拍摄均应限于正式访客区域。"
+    },
+    "walk": {
+      "es": [
+        "Confirma la visita con el operador antes de subir",
+        "Reúnete en el acceso público y sigue el itinerario autorizado",
+        "Regresa al vehículo desde el punto de observación"
+      ],
+      "en": [
+        "Confirm visitor access with the operator before ascending",
+        "Meet at the public entrance and follow the authorised itinerary",
+        "Return from the observation point to your vehicle"
+      ],
+      "zh": [
+        "上山前向运营方确认能否参观",
+        "在访客入口集合，沿许可路线步行",
+        "从观景位置回到约好的车辆"
+      ]
+    },
+    "image": "/nearby/central-villonaco.webp",
+    "photoTip": {
+      "es": "Coloca dos o más turbinas en perspectiva desde el punto permitido. Así la imagen muestra la profundidad de la cresta sin acercarse a una plataforma técnica.",
+      "en": "From the permitted point align two or more turbines. This shows the ridge depth without approaching a technical platform.",
+      "zh": "在获准的观景点让两台以上风机前后排列，可以表现山脊纵深，无需走近作业平台。"
+    },
+    "source": "https://www.celec.gob.ec/",
+    "photoSource": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "manager": "CELEC EP",
+    "hours": {
+      "es": "Confirma con el operador si hay visita al centro de interpretación y a qué hora debes presentarte en la entrada.",
+      "en": "Confirm with the operator whether its interpretation centre is receiving visitors and the arrival time.",
+      "zh": "出发前向运营方确认解说中心是否接待及集合时间。"
+    },
+    "fee": {
+      "es": "Aclara con el operador el acceso al recorrido; contrata por separado el transporte de subida y vuelta.",
+      "en": "Check tour access with the operator and arrange separate return transport.",
+      "zh": "向运营方核实参观条件，往返山上的交通单独安排。"
+    },
+    "faq": {
+      "es": [
+        "¿Puedo caminar libremente entre aerogeneradores?",
+        "Usa únicamente la ruta que autorice el operador. Las bases de las turbinas y las vías de servicio son áreas técnicas."
+      ],
+      "en": [
+        "Can I walk freely between turbines?",
+        "Use only the itinerary authorised by the operator. Turbine bases and service roads are technical areas."
+      ],
+      "zh": [
+        "可以自行走进风机之间吗？",
+        "只走运营方允许的访客线路，风机基础和作业道路属于技术区。"
+      ]
+    }
+  },
+  {
+    "slug": "replica-san-basilio",
+    "name": {
+      "es": "Réplica de San Basilio de Jipiro",
+      "en": "Jipiro's Saint Basil replica",
+      "zh": "希皮罗圣瓦西里模型建筑"
+    },
+    "address": "Parque Jipiro, Av. Salvador Bustamante Celi, Loja",
+    "kind": "jipiro",
+    "intro": {
+      "es": "Las cúpulas de colores pertenecen a una réplica recreativa dentro de Jipiro. No es una iglesia en funcionamiento. Mira primero la silueta entre los árboles y después observa cómo el parque adapta una imagen arquitectónica reconocible a la escala de los juegos infantiles.",
+      "en": "The coloured domes belong to a recreation-park interpretation of Saint Basil's, rather than a working church. Look at the silhouette through the trees, then notice how a recognisable architectural image has been adapted to the scale of children's play.",
+      "zh": "彩色洋葱顶属于希皮罗公园对圣瓦西里建筑形象的再现。这里是游乐建筑。先透过树木观察轮廓，再靠近看它怎样把醒目的塔顶与儿童活动尺度结合起来。"
+    },
+    "walk": {
+      "es": [
+        "Entra a Jipiro por el acceso principal",
+        "Sigue los senderos públicos hasta reconocer las cúpulas",
+        "Rodea la zona de juego por fuera y vuelve hacia la laguna"
+      ],
+      "en": [
+        "Enter Jipiro at the main visitor entrance",
+        "Follow the park paths until the coloured domes come into view",
+        "Walk around the play area and return towards the lagoon"
+      ],
+      "zh": [
+        "从希皮罗公园主入口进入",
+        "沿公共步道寻找彩色塔顶",
+        "从游戏区外围绕行，再向园内湖泊方向返回"
+      ]
+    },
+    "image": "/gallery/parque-recreacional-jipiro (19).jpg",
+    "photoTip": {
+      "es": "Busca un hueco entre árboles que separe las cúpulas del fondo. Quédate fuera de la zona de juego para no cortar el paso a las familias.",
+      "en": "Find a gap in the trees so the domes stand out. Stay outside the play area to keep the route clear for families.",
+      "zh": "透过树间空隙让圆顶与背景分开，拍摄时站在游戏区外，让儿童和家长顺利通过。"
+    },
+    "source": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "photoSource": "",
+    "manager": "Municipio de Loja · Parque Jipiro",
+    "hours": {
+      "es": "Consulta en la entrada de Jipiro si el sector de réplicas está habilitado; los juegos pueden tener su propio horario.",
+      "en": "Check at Jipiro’s entrance that the architectural area is accessible. Play facilities may keep their own hours.",
+      "zh": "在希皮罗入口查询主题建筑区开放情况，儿童设施可能另有时段。"
+    },
+    "fee": {
+      "es": "La réplica se ve desde el paseo del parque. Pregunta aparte por las tarifas de juegos o servicios.",
+      "en": "The replica is visible from the park path. Check separate charges for activities and services.",
+      "zh": "从园内步道可看主题建筑外观，参加活动与使用设施的费用另问。"
+    },
+    "faq": {
+      "es": [
+        "¿Se visita como un templo religioso?",
+        "En Jipiro es una interpretación arquitectónica recreativa, reconocible por sus cúpulas de colores."
+      ],
+      "en": [
+        "Is the replica visited as a place of worship?",
+        "At Jipiro it is a recreation-park interpretation, recognisable by its coloured domes."
+      ],
+      "zh": [
+        "这里是用于礼拜的教堂吗？",
+        "这是公园里的主题建筑，以彩色圆顶为主要辨识特征。"
+      ]
+    }
+  },
+  {
+    "slug": "pagoda-jipiro",
+    "name": {
+      "es": "Pagoda de Jipiro",
+      "en": "Jipiro pagoda",
+      "zh": "希皮罗中式楼阁"
+    },
+    "address": "Parque Jipiro, Av. Salvador Bustamante Celi, Loja",
+    "kind": "jipiro",
+    "intro": {
+      "es": "El pabellón de aleros curvos forma parte del conjunto de réplicas del parque. Su interés está en la silueta del tejado y en su posición junto a los espacios de paseo. Una toma lateral desde el sendero suele separar mejor los aleros superpuestos que una imagen frontal muy próxima.",
+      "en": "The pavilion with upturned eaves is part of the park's collection of architectural interpretations. Study the roofline against the open walking areas. A side view taken from the path usually separates the tiers more clearly than a close frontal photograph.",
+      "zh": "翘起的檐角是辨认这座楼阁的线索，也是公园内不同建筑样式中很容易观察的一种。从步道侧面取景，重叠屋檐之间的空隙比站在正门前更清楚。可与公园内彩色圆顶建筑串成短途建筑散步。"
+    },
+    "walk": {
+      "es": [
+        "Llega a la zona de réplicas por los caminos de Jipiro",
+        "Rodea el pabellón por el sendero y compara dos ángulos del tejado",
+        "Continúa por el paseo hacia la laguna"
+      ],
+      "en": [
+        "Reach the architectural area on the park paths",
+        "Walk around the pavilion to compare two roof angles",
+        "Continue along the promenade towards the lagoon"
+      ],
+      "zh": [
+        "沿公园步道前往主题建筑区",
+        "在楼阁外围从两个角度比较屋檐",
+        "接着沿园内散步道向湖边前行"
+      ]
+    },
+    "image": "/gallery/parque-recreacional-jipiro (3).jpg",
+    "photoTip": {
+      "es": "Un ángulo oblicuo separa los niveles del tejado. Incluye algo del jardín para que se entienda que se trata de una interpretación arquitectónica en Jipiro.",
+      "en": "An oblique view separates the roof tiers. Include some of the garden to show the setting as an architectural interpretation within Jipiro.",
+      "zh": "斜向取景能让各层屋檐分开，画面保留一部分园景，以交代这里是公园中的主题建筑。"
+    },
+    "source": "https://loja.gob.ec/files/image/dependencias/Turismo/mapa_turistico_loja.pdf",
+    "photoSource": "",
+    "manager": "Municipio de Loja · Parque Jipiro",
+    "hours": {
+      "es": "Consulta en la entrada de Jipiro si el sector de réplicas está habilitado; los juegos pueden tener su propio horario.",
+      "en": "Check at Jipiro’s entrance that the architectural area is accessible. Play facilities may keep their own hours.",
+      "zh": "在希皮罗入口查询主题建筑区开放情况，儿童设施可能另有时段。"
+    },
+    "fee": {
+      "es": "La réplica se ve desde el paseo del parque. Pregunta aparte por las tarifas de juegos o servicios.",
+      "en": "The replica is visible from the park path. Check separate charges for activities and services.",
+      "zh": "从园内步道可看主题建筑外观，参加活动与使用设施的费用另问。"
+    },
+    "faq": {
+      "es": [
+        "¿Qué diferencia la pagoda de la réplica de San Basilio?",
+        "Observa el tejado: la pagoda presenta niveles de aleros, mientras la otra réplica se reconoce por las cúpulas coloreadas."
+      ],
+      "en": [
+        "How can I distinguish the pagoda from the Saint Basil replica?",
+        "Look at the roof. The pagoda has tiers of eaves; the other replica has coloured domes."
+      ],
+      "zh": [
+        "怎样区分楼阁与圣瓦西里模型？",
+        "看屋顶即可辨认。楼阁以层叠的屋檐为主，另一座建筑则是彩色圆顶。"
+      ]
+    }
+  }
+]
