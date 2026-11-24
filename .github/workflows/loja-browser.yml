@@ -1,0 +1,24 @@
+name: Loja public browser acceptance
+on:
+  push:
+    branches: [verify-loja-production-149]
+permissions:
+  contents: write
+jobs:
+  browser:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install --quiet playwright==1.56.0
+      - run: python .github/verify-loja-browser.py
+      - name: Save verified screens and measurements
+        if: always()
+        run: |
+          git config user.name "Loja release verification"
+          git config user.email "loja-verification@users.noreply.github.com"
+          git add browser-evidence
+          if ! git diff --cached --quiet; then
+            git commit -m 'Record desktop and mobile production browser evidence'
+            git push origin HEAD:refs/heads/verify-loja-production-149
+          fi
