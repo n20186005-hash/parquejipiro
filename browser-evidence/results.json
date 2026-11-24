@@ -1,0 +1,86 @@
+[
+  {
+    "mode": "desktop",
+    "page": "home",
+    "url": "https://www.parquejipiro.com/zh",
+    "h1": "Parque Recreacional Jipiro",
+    "width": 1440,
+    "viewport": 1440,
+    "noOverflow": true,
+    "footerMatches": true,
+    "footerLinks": 9
+  },
+  {
+    "mode": "desktop",
+    "page": "directory",
+    "url": "https://www.parquejipiro.com/zh/nearby",
+    "h1": "从希皮罗探索洛哈周边",
+    "width": 1440,
+    "viewport": 1440,
+    "noOverflow": true,
+    "footerMatches": true,
+    "footerLinks": 9,
+    "directoryLinks": 31
+  },
+  {
+    "mode": "desktop",
+    "page": "detail",
+    "url": "https://www.parquejipiro.com/zh/nearby/san-juan-del-valle",
+    "h1": "圣胡安德埃尔瓦列广场",
+    "width": 1440,
+    "viewport": 1440,
+    "noOverflow": true,
+    "footerMatches": true,
+    "footerLinks": 9,
+    "hero": {
+      "url": "https://www.parquejipiro.com/nearby/san-juan-del-valle.webp",
+      "w": 335,
+      "h": 197,
+      "boxWidth": 1440,
+      "boxHeight": 900
+    },
+    "footerReachable": true
+  },
+  {
+    "mode": "mobile",
+    "page": "home",
+    "url": "https://www.parquejipiro.com/zh",
+    "h1": "Parque Recreacional Jipiro",
+    "width": 390,
+    "viewport": 390,
+    "noOverflow": true,
+    "footerMatches": true,
+    "footerLinks": 9
+  },
+  {
+    "mode": "mobile",
+    "page": "directory",
+    "url": "https://www.parquejipiro.com/zh/nearby",
+    "h1": "从希皮罗探索洛哈周边",
+    "width": 390,
+    "viewport": 390,
+    "noOverflow": true,
+    "footerMatches": true,
+    "footerLinks": 9,
+    "directoryLinks": 31
+  },
+  {
+    "mode": "mobile",
+    "page": "detail",
+    "url": "https://www.parquejipiro.com/zh/nearby/san-juan-del-valle",
+    "h1": "圣胡安德埃尔瓦列广场",
+    "width": 390,
+    "viewport": 390,
+    "noOverflow": true,
+    "footerMatches": true,
+    "footerLinks": 9,
+    "hero": {
+      "url": "https://www.parquejipiro.com/nearby/san-juan-del-valle.webp",
+      "w": 335,
+      "h": 197,
+      "boxWidth": 390,
+      "boxHeight": 844
+    },
+    "footerReachable": true
+  }
+]
